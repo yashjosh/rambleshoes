@@ -1,0 +1,4559 @@
+# Translation of Plugins - Premium Addons for Elementor - Development (trunk) in English (Canada)
+# This file is distributed under the same license as the Plugins - Premium Addons for Elementor - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-25 23:40:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - Premium Addons for Elementor - Development (trunk)\n"
+
+#: widgets/premium-person.php:750
+msgid "Bottom Offset"
+msgstr "Bottom Offset"
+
+#: widgets/premium-person.php:278
+msgid "Enable Social Icons"
+msgstr "Enable Social Icons"
+
+#: widgets/premium-grid.php:774
+msgid "Videos"
+msgstr "Videos"
+
+#: widgets/premium-grid.php:763
+msgid "Links Icon"
+msgstr "Links Icon"
+
+#: widgets/premium-person.php:772
+msgid "Transition Duration (sec)"
+msgstr "Transition Duration (sec)"
+
+#: admin/settings/modules-setting.php:498
+msgid "Premium Image Accordion"
+msgstr "Premium Image Accordion"
+
+#: admin/settings/modules-setting.php:425
+msgid "Premium Background Transition"
+msgstr "Premium Background Transition"
+
+#: widgets/premium-grid.php:913
+msgid "Lightbox Icon"
+msgstr "Lightbox Icon"
+
+#: admin/settings/modules-setting.php:562
+msgid "Premium Multi Scroll"
+msgstr "Premium Multi Scroll"
+
+#: admin/settings/modules-setting.php:630
+msgid "Premium Yelp Reviews"
+msgstr "Premium Yelp Reviews"
+
+#: admin/includes/admin-notices.php:375
+msgid "<a class=\"pa-notice-close\" href=\"%s\"><span class=\"dashicons dashicons-dismiss\"></span></a></p>"
+msgstr "<a class=\"pa-notice-close\" href=\"%s\"><span class=\"dashicons dashicons-dismiss\"></span></a></p>"
+
+#: admin/includes/admin-notices.php:373
+msgid "Click Here to Install"
+msgstr "Click Here to Install"
+
+#: admin/includes/admin-notices.php:371
+msgid "Now, you can disable Elementor editor & Premium Addons translation with this handy plugin.&nbsp;"
+msgstr "Now, you can disable Elementor editor & Premium Addons translation with this handy plugin.&nbsp;"
+
+#: widgets/premium-videobox.php:158 widgets/premium-grid.php:498
+msgid "Remote Video URL"
+msgstr "Remote Video URL"
+
+#: widgets/premium-videobox.php:267
+msgid "Thumbnail Size"
+msgstr "Thumbnail Size"
+
+#: widgets/premium-videobox.php:273 widgets/premium-grid.php:658
+msgid "Standard Quality"
+msgstr "Standard Quality"
+
+#: widgets/premium-videobox.php:272 widgets/premium-grid.php:657
+msgid "Medium Quality"
+msgstr "Medium Quality"
+
+#: widgets/premium-videobox.php:271 widgets/premium-grid.php:656
+msgid "High Quality"
+msgstr "High Quality"
+
+#: widgets/premium-videobox.php:270 widgets/premium-grid.php:655
+msgid "Maximum Resolution"
+msgstr "Maximum Resolution"
+
+#: widgets/premium-grid.php:874
+msgid "Please note Elementor lightbox style is always applied on videos."
+msgstr "Please note Elementor lightbox style is always applied on videos."
+
+#: widgets/premium-grid.php:782
+msgid "Always Show Play Icon"
+msgstr "Always Show Play Icon"
+
+#: widgets/premium-grid.php:864
+msgid "Other Lightbox Plugin"
+msgstr "Other Lightbox Plugin"
+
+#: widgets/premium-grid.php:863
+msgid "Elementor"
+msgstr "Elementor"
+
+#: widgets/premium-grid.php:862
+msgid "PrettyPhoto"
+msgstr "PrettyPhoto"
+
+#: widgets/premium-grid.php:858
+msgid "Lightbox Style"
+msgstr "Lightbox Style"
+
+#: widgets/premium-grid.php:479
+msgid "Select Video"
+msgstr "Select Video"
+
+#: widgets/premium-grid.php:460
+msgid "Video URL"
+msgstr "Video URL"
+
+#: widgets/premium-grid.php:446
+msgid "YouTube"
+msgstr "YouTube"
+
+#: widgets/premium-grid.php:435
+msgid "Video"
+msgstr "Video"
+
+#: widgets/premium-grid.php:378
+msgid "Images/Videos"
+msgstr "Images/Videos"
+
+#: admin/settings/modules-setting.php:250 widgets/premium-grid.php:38
+msgid "Media Grid"
+msgstr "Media Grid"
+
+#: widgets/premium-grid.php:645
+msgid "Shuffle Images on Page Load"
+msgstr "Shuffle Images on Page Load"
+
+#: widgets/premium-blog.php:1392
+msgid "Carousel Arrows"
+msgstr "Carousel Arrows"
+
+#: widgets/premium-blog.php:1351
+msgid "Carousel Dots"
+msgstr "Carousel Dots"
+
+#: widgets/premium-counter.php:79
+msgid "Ending Number"
+msgstr "Ending Number"
+
+#: widgets/premium-counter.php:71
+msgid "Starting Number"
+msgstr "Starting Number"
+
+#: widgets/premium-videobox.php:189
+msgid "Autoplay"
+msgstr "Autoplay"
+
+#: widgets/premium-title.php:222
+msgid "Stripe Alignment"
+msgstr "Stripe Alignment"
+
+#: widgets/premium-grid.php:340
+msgid "Shuffle Images on Filter Click"
+msgstr "Shuffle Images on Filter Click"
+
+#: widgets/premium-vscroll.php:353
+msgid "Enable Full Section Scroll on Touch Devices"
+msgstr "Enable Full Section Scroll on Touch Devices"
+
+#: includes/templates/scripts/template-modal-keywords.php:11
+msgid "All Widgets/Addons"
+msgstr "All Widgets/Addons"
+
+#: includes/templates/scripts/template-modal-keywords.php:9
+msgid "Filter by Widget / Addon"
+msgstr "Filter by Widget / Addon"
+
+#: includes/templates/scripts/template-modal-header-back.php:8
+msgid "Back to Library"
+msgstr "Back to Library"
+
+#: includes/templates/scripts/template-modal-item.php:19
+#: includes/templates/scripts/template-modal-insert-button.php:9
+msgid "Insert"
+msgstr "Insert"
+
+#: includes/templates/scripts/template-modal-loading.php:13
+msgid "Loading"
+msgstr "Loading"
+
+#: includes/templates/classes/config.php:175
+msgid "Get Pro"
+msgstr "Get Pro"
+
+#: includes/templates/classes/config.php:61
+#: includes/templates/scripts/template-modal-header-logo.php:10
+msgid "Premium Templates"
+msgstr "Premium Templates"
+
+#: includes/templates/types/section.php:19
+#: includes/templates/documents/section.php:14
+msgid "Section"
+msgstr "Section"
+
+#: includes/templates/scripts/template-modal-error.php:12
+msgid "Template couldn't be loaded. Please activate you license key before."
+msgstr "Template couldn't be loaded. Please activate you licence key before."
+
+#: includes/templates/classes/config.php:173
+msgid "Activate License"
+msgstr "Activate Licence"
+
+#: widgets/premium-banner.php:645
+msgid "Inner Border Color"
+msgstr "Inner Border Colour"
+
+#: widgets/premium-banner.php:591
+msgid "Title Border Color"
+msgstr "Title Border Colour"
+
+#: widgets/premium-videobox.php:232
+msgid "Any Channel"
+msgstr "Any Channel"
+
+#: widgets/premium-videobox.php:231
+msgid "Current Channel"
+msgstr "Current Channel"
+
+#: widgets/premium-videobox.php:228
+msgid "Suggested Videos From"
+msgstr "Suggested Videos From"
+
+#: widgets/premium-blog.php:1175
+msgid "Content Padding"
+msgstr "Content Padding"
+
+#: widgets/premium-blog.php:1164
+msgid "Content Margin"
+msgstr "Content Margin"
+
+#: widgets/premium-blog.php:269
+msgid "Columns Spacing"
+msgstr "Columns Spacing"
+
+#: widgets/premium-blog.php:248
+msgid "Rows Spacing"
+msgstr "Rows Spacing"
+
+#: widgets/premium-grid.php:807
+msgid "This option moves the origin of the grid to the right side. Useful for RTL direction sites"
+msgstr "This option moves the origin of the grid to the right side. Useful for RTL direction sites"
+
+#: widgets/premium-vscroll.php:346
+msgid "Enabling this option will save the current section ID to the browser history"
+msgstr "Enabling this option will save the current section ID to the browser history"
+
+#: widgets/premium-vscroll.php:344
+msgid "Save to Browser History"
+msgstr "Save to Browser History"
+
+#: widgets/premium-banner.php:526
+msgid "Hover CSS Filter"
+msgstr "Hover CSS Filter"
+
+#: widgets/premium-dual-header.php:286 widgets/premium-dual-header.php:483
+msgid "Stroke Text Color"
+msgstr "Stroke Text Colour"
+
+#: widgets/premium-grid.php:95
+msgid "Minimum Height"
+msgstr "Minimum Height"
+
+#: widgets/premium-dual-header.php:314 widgets/premium-dual-header.php:511
+msgid "Stroke Fill Width"
+msgstr "Stroke Fill Width"
+
+#: widgets/premium-dual-header.php:276 widgets/premium-dual-header.php:473
+msgid "Stroke"
+msgstr "Stroke"
+
+#: widgets/premium-dual-header.php:300 widgets/premium-dual-header.php:497
+msgid "Stroke Fill Color"
+msgstr "Stroke Fill Colour"
+
+#: widgets/premium-carousel.php:419
+msgid "%1$s Issue: I can see the first slide only » %2$s"
+msgstr "%1$s Issue: I can see the first slide only » %2$s"
+
+#: widgets/premium-grid.php:971
+msgid "%1$s Getting Started » %2$s"
+msgstr "%1$s Getting Started » %2$s"
+
+#: widgets/premium-carousel.php:412 widgets/premium-grid.php:965
+msgid "Helpful Documentations"
+msgstr "Helpful Documentations"
+
+#: widgets/premium-videobox.php:242
+msgid "Aspect Ratio"
+msgstr "Aspect Ratio"
+
+#: widgets/premium-videobox.php:219
+msgid "Specify an end time (in seconds)"
+msgstr "Specify an end time (in seconds)"
+
+#: widgets/premium-videobox.php:217
+msgid "End Time"
+msgstr "End Time"
+
+#: widgets/premium-videobox.php:208
+msgid "Specify a start time (in seconds)"
+msgstr "Specify a start time (in seconds)"
+
+#: widgets/premium-videobox.php:206
+msgid "Start Time"
+msgstr "Start Time"
+
+#: widgets/premium-videobox.php:174
+msgid "Show/hide player controls"
+msgstr "Show/hide player controls"
+
+#: widgets/premium-videobox.php:172
+msgid "Player Controls"
+msgstr "Player Controls"
+
+#: includes/class-helper-functions.php:176
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+#: admin/settings/maps.php:100
+msgid "Google Maps Localization Language:"
+msgstr "Google Maps Localization Language:"
+
+#: includes/class-helper-functions.php:179
+msgid "Chinese (traditional)"
+msgstr "Chinese (traditional)"
+
+#: includes/class-helper-functions.php:178
+msgid "Chinese (simplified)"
+msgstr "Chinese (simplified)"
+
+#: includes/class-helper-functions.php:177
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+#: includes/class-helper-functions.php:175
+msgid "Turkish"
+msgstr "Turkish"
+
+#: includes/class-helper-functions.php:174
+msgid "Thai"
+msgstr "Thai"
+
+#: includes/class-helper-functions.php:173
+msgid "Telugu"
+msgstr "Telugu"
+
+#: includes/class-helper-functions.php:172
+msgid "Tamil"
+msgstr "Tamil"
+
+#: includes/class-helper-functions.php:171
+msgid "Tagalog"
+msgstr "Tagalog"
+
+#: includes/class-helper-functions.php:170
+msgid "Swedish"
+msgstr "Swedish"
+
+#: includes/class-helper-functions.php:169
+msgid "Serbian"
+msgstr "Serbian"
+
+#: includes/class-helper-functions.php:168
+msgid "Slovenian"
+msgstr "Slovenian"
+
+#: includes/class-helper-functions.php:167
+msgid "Slovak"
+msgstr "Slovak"
+
+#: includes/class-helper-functions.php:166
+msgid "Russian"
+msgstr "Russian"
+
+#: includes/class-helper-functions.php:165
+msgid "Romanian"
+msgstr "Romanian"
+
+#: includes/class-helper-functions.php:164
+msgid "Portuguese (portugal)"
+msgstr "Portuguese (portugal)"
+
+#: includes/class-helper-functions.php:163
+msgid "Portuguese (brazil)"
+msgstr "Portuguese (brazil)"
+
+#: includes/class-helper-functions.php:162
+msgid "Portuguese"
+msgstr "Portuguese"
+
+#: includes/class-helper-functions.php:161
+msgid "Polish"
+msgstr "Polish"
+
+#: includes/class-helper-functions.php:160
+msgid "Norwegian"
+msgstr "Norwegian"
+
+#: includes/class-helper-functions.php:159
+msgid "Dutch"
+msgstr "Dutch"
+
+#: includes/class-helper-functions.php:158
+msgid "Marathi"
+msgstr "Marathi"
+
+#: includes/class-helper-functions.php:157
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: includes/class-helper-functions.php:156
+msgid "Latvian"
+msgstr "Latvian"
+
+#: includes/class-helper-functions.php:155
+msgid "Lithuanian"
+msgstr "Lithuanian"
+
+#: includes/class-helper-functions.php:154
+msgid "Korean"
+msgstr "Korean"
+
+#: includes/class-helper-functions.php:153
+msgid "Kannada"
+msgstr "Kannada"
+
+#: includes/class-helper-functions.php:152
+msgid "Japanese"
+msgstr "Japanese"
+
+#: includes/class-helper-functions.php:151
+msgid "Hebrew"
+msgstr "Hebrew"
+
+#: includes/class-helper-functions.php:150
+msgid "Italian"
+msgstr "Italian"
+
+#: includes/class-helper-functions.php:149
+msgid "Indonesian"
+msgstr "Indonesian"
+
+#: includes/class-helper-functions.php:148
+msgid "Hungarian"
+msgstr "Hungarian"
+
+#: includes/class-helper-functions.php:147
+msgid "Croatian"
+msgstr "Croatian"
+
+#: includes/class-helper-functions.php:146
+msgid "Hindi"
+msgstr "Hindi"
+
+#: includes/class-helper-functions.php:145
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: includes/class-helper-functions.php:144
+msgid "Galician"
+msgstr "Galician"
+
+#: includes/class-helper-functions.php:143
+msgid "French"
+msgstr "French"
+
+#: includes/class-helper-functions.php:142
+msgid "Filipino"
+msgstr "Filipino"
+
+#: includes/class-helper-functions.php:141
+msgid "Finnish"
+msgstr "Finnish"
+
+#: includes/class-helper-functions.php:140
+msgid "Farsi"
+msgstr "Farsi"
+
+#: includes/class-helper-functions.php:139
+msgid "Spanish"
+msgstr "Spanish"
+
+#: includes/class-helper-functions.php:138
+msgid "English (great britain)"
+msgstr "English (great britain)"
+
+#: includes/class-helper-functions.php:137
+msgid "English (australian)"
+msgstr "English (australian)"
+
+#: includes/class-helper-functions.php:136
+msgid "English"
+msgstr "English"
+
+#: includes/class-helper-functions.php:135
+msgid "Greek"
+msgstr "Greek"
+
+#: includes/class-helper-functions.php:134
+msgid "German"
+msgstr "German"
+
+#: includes/class-helper-functions.php:133
+msgid "Danish"
+msgstr "Danish"
+
+#: includes/class-helper-functions.php:132
+msgid "Czech"
+msgstr "Czech"
+
+#: includes/class-helper-functions.php:131
+msgid "Catalan"
+msgstr "Catalan"
+
+#: includes/class-helper-functions.php:130
+msgid "Bengali"
+msgstr "Bengali"
+
+#: includes/class-helper-functions.php:129
+msgid "Bulgarian"
+msgstr "Bulgarian"
+
+#: includes/class-helper-functions.php:128
+msgid "Basque"
+msgstr "Basque"
+
+#: includes/class-helper-functions.php:127
+msgid "Arabic"
+msgstr "Arabic"
+
+#: widgets/premium-blog.php:481 widgets/premium-grid.php:257
+msgid "Filter Tabs"
+msgstr "Filter Tabs"
+
+#: widgets/premium-grid.php:889
+msgid "Dark Square"
+msgstr "Dark Square"
+
+#: widgets/premium-grid.php:888
+msgid "Light Square"
+msgstr "Light Square"
+
+#: widgets/premium-grid.php:887
+msgid "Dark Rounded"
+msgstr "Dark Rounded"
+
+#: widgets/premium-grid.php:886
+msgid "Light Rounded"
+msgstr "Light Rounded"
+
+#: widgets/premium-grid.php:882
+msgid "Lightbox Theme"
+msgstr "Lightbox Theme"
+
+#: widgets/premium-blog.php:103
+msgid "Cards"
+msgstr "Cards"
+
+#: widgets/premium-blog.php:101
+msgid "Classic"
+msgstr "Classic"
+
+#: widgets/premium-grid.php:121
+msgid "Images Fit"
+msgstr "Images Fit"
+
+#: widgets/premium-vscroll.php:272
+msgid "Lines"
+msgstr "Lines"
+
+#: widgets/premium-vscroll.php:271
+msgid "Circles"
+msgstr "Circles"
+
+#: widgets/premium-vscroll.php:268
+msgid "Shape"
+msgstr "Shape"
+
+#: widgets/premium-person.php:459 widgets/premium-grid.php:1103
+msgid "Hover CSS Filters"
+msgstr "Hover CSS Filters"
+
+#: admin/includes/version-control.php:93
+msgid "Rollback Version"
+msgstr "Rollback Version"
+
+#: admin/settings/maps.php:32
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: widgets/premium-blog.php:1466
+msgid "Read More Text"
+msgstr "Read More Text"
+
+#: widgets/premium-blog.php:334
+msgid "Post content will be pulled from post content box"
+msgstr "Post content will be pulled from post content box"
+
+#: widgets/premium-blog.php:332
+msgid "Pull From Content Box"
+msgstr "Pull From Content Box"
+
+#: admin/settings/maps.php:130
+msgid "This will load the JS file for markers clusters"
+msgstr "This will load the JS file for markers clusters"
+
+#: admin/settings/maps.php:127
+msgid "Load Markers Clustering JS File:"
+msgstr "Load Markers Clustering JS File:"
+
+#: admin/settings/maps.php:119
+msgid "Load Maps API JS File:"
+msgstr "Load Maps API JS File:"
+
+#: admin/includes/plugin-info.php:72
+msgid "Community Forums"
+msgstr "Community Forums"
+
+#: admin/includes/plugin-info.php:72
+msgid " and Our "
+msgstr " and Our "
+
+#: admin/includes/plugin-info.php:72
+msgid "Facebook Group"
+msgstr "Facebook Group"
+
+#: admin/includes/plugin-info.php:72
+msgid " for more details. You can also join our "
+msgstr " for more details. You can also join our "
+
+#: admin/includes/plugin-info.php:72
+msgid "It’s highly recommended to check out documentation and FAQ before using this plugin. "
+msgstr "It’s highly recommended to check out documentation and FAQ before using this plugin. "
+
+#: admin/includes/plugin-info.php:71
+msgid "Docs and Support"
+msgstr "Docs and Support"
+
+#: admin/includes/plugin-info.php:60
+msgid " to know more."
+msgstr " to know more."
+
+#: admin/includes/plugin-info.php:60 admin/includes/plugin-info.php:72
+msgid "Click Here"
+msgstr "Click Here"
+
+#: admin/includes/plugin-info.php:60
+msgid "Premium Addons Pro"
+msgstr "Premium Addons Pro"
+
+#: admin/includes/plugin-info.php:60
+msgid "Get more widgets and addons with "
+msgstr "Get more widgets and addons with "
+
+#: admin/includes/plugin-info.php:58
+msgid "Premium Addons for Elementor extends Elementor Page Builder capabilities with many fully customizable widgets and addons that help you to build impressive websites with no coding required."
+msgstr "Premium Addons for Elementor extends Elementor Page Builder capabilities with many fully customizable widgets and addons that help you to build impressive websites with no coding required."
+
+#: admin/includes/plugin-info.php:57
+msgid "What is Premium Addons?"
+msgstr "What is Premium Addons?"
+
+#: admin/settings/modules-setting.php:681 admin/settings/maps.php:137
+#: admin/includes/plugin-info.php:79 admin/includes/reports.php:56
+msgid "Click Here to Rate it ★★★★★"
+msgstr "Click Here to Rate it ★★★★★"
+
+#: admin/settings/modules-setting.php:681 admin/settings/maps.php:137
+#: admin/includes/plugin-info.php:79 admin/includes/reports.php:56
+msgid "Did you like Premium Addons for Elementor Plugin? Please "
+msgstr "Did you like Premium Addons for Elementor Plugin? Please "
+
+#: admin/settings/maps.php:122
+msgid "This will load API JS file if it's not loaded by another theme or plugin"
+msgstr "This will load API JS file if it's not loaded by another theme or plugin"
+
+#: admin/settings/maps.php:92
+msgid "Google Maps API Key:"
+msgstr "Google Maps API Key:"
+
+#: admin/settings/maps.php:87
+msgid " to get your  key."
+msgstr " to get your key."
+
+#: admin/settings/maps.php:87
+msgid "here"
+msgstr "here"
+
+#: admin/settings/modules-setting.php:676 admin/settings/maps.php:134
+#: admin/includes/version-control.php:115
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#: admin/includes/version-control.php:111
+msgid "Please Note: We do not recommend updating to a beta version on production sites."
+msgstr "Please Note: We do not recommend updating to a beta version on production sites."
+
+#: admin/includes/version-control.php:104
+msgid "Turn-on Beta Tester, to get notified when a new beta version of Premium Addons for Elementor. The Beta version will not install automatically. You always have the option to ignore it."
+msgstr "Turn-on Beta Tester, to get notified when a new beta version of Premium Addons for Elementor. The Beta version will not install automatically. You always have the option to ignore it."
+
+#: admin/includes/version-control.php:103
+msgid "Become a Beta Tester"
+msgstr "Become a Beta Tester"
+
+#: admin/includes/version-control.php:97
+msgid "Warning: Please backup your database before making the rollback."
+msgstr "Warning: Please backup your database before making the rollback."
+
+#: admin/includes/version-control.php:89
+msgid "Experiencing an issue with Premium Addons for Elementor version %s? Rollback to a previous version before the issue appeared."
+msgstr "Experiencing an issue with Premium Addons for Elementor version %s? Rollback to a previous version before the issue appeared."
+
+#: admin/settings/maps.php:87
+msgid " Maps Element requires Google API key to be entered below. If you don’t have one, click "
+msgstr " Maps Element requires Google API key to be entered below. If you don’t have one, click "
+
+#: widgets/premium-testimonials.php:27
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: admin/settings/modules-setting.php:260 widgets/premium-image-button.php:26
+msgid "Image Button"
+msgstr "Image Button"
+
+#: admin/settings/modules-setting.php:208 widgets/premium-contactform.php:23
+msgid "Contact Form7"
+msgstr "Contact Form7"
+
+#: admin/settings/modules-setting.php:331
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: admin/settings/modules-setting.php:285 widgets/premium-maps.php:30
+msgid "Maps"
+msgstr "Maps"
+
+#: admin/settings/modules-setting.php:268 widgets/premium-image-scroll.php:35
+msgid "Image Scroll"
+msgstr "Image Scroll"
+
+#: admin/settings/modules-setting.php:181 widgets/premium-blog.php:24
+msgid "Blog"
+msgstr "Blog"
+
+#: admin/settings/modules-setting.php:174 widgets/premium-banner.php:34
+msgid "Banner"
+msgstr "Banner"
+
+#: admin/settings/modules-setting.php:278
+#: widgets/premium-image-separator.php:28
+msgid "Image Separator"
+msgstr "Image Separator"
+
+#: admin/settings/modules-setting.php:371 widgets/premium-vscroll.php:29
+msgid "Vertical Scroll"
+msgstr "Vertical Scroll"
+
+#: widgets/premium-modalbox.php:151
+msgid "Add a title for the modal box"
+msgstr "Add a title for the modal box"
+
+#: widgets/premium-blog.php:234
+msgid "Contain"
+msgstr "Contain"
+
+#: widgets/premium-blog.php:233 widgets/premium-grid.php:124
+msgid "Fill"
+msgstr "Fill"
+
+#: widgets/premium-blog.php:232 widgets/premium-grid.php:125
+msgid "Cover"
+msgstr "Cover"
+
+#: widgets/premium-blog.php:229
+msgid "Thumbnail Fit"
+msgstr "Thumbnail Fit"
+
+#: widgets/premium-blog.php:212
+msgid "Thumbnail Max Height"
+msgstr "Thumbnail Max Height"
+
+#: widgets/premium-blog.php:195
+msgid "Thumbnail Min Height"
+msgstr "Thumbnail Min Height"
+
+#: widgets/premium-banner.php:206
+msgid "Custom"
+msgstr "Custom"
+
+#: widgets/premium-banner.php:169
+msgid "Effect 6"
+msgstr "Effect 6"
+
+#: widgets/premium-banner.php:168
+msgid "Effect 5"
+msgstr "Effect 5"
+
+#: widgets/premium-banner.php:167
+msgid "Effect 4"
+msgstr "Effect 4"
+
+#: widgets/premium-banner.php:166
+msgid "Effect 3"
+msgstr "Effect 3"
+
+#: widgets/premium-banner.php:165
+msgid "Effect 2"
+msgstr "Effect 2"
+
+#: widgets/premium-banner.php:164
+msgid "Effect 1"
+msgstr "Effect 1"
+
+#: includes/compatibility/widgets/carousel.php:50
+msgid "Carousel: Template"
+msgstr "Carousel: Template"
+
+#: widgets/premium-grid.php:555
+msgid "To assign for multiple categories, separate by a comma ','"
+msgstr "To assign for multiple categories, separate by a comma ','"
+
+#: widgets/premium-fancytext.php:307
+msgid "Fancy Text Alignment"
+msgstr "Fancy Text Alignment"
+
+#: widgets/premium-grid.php:211
+msgid "Set the minimum number of images to show with each click"
+msgstr "Set the minimum number of images to show with each click"
+
+#: widgets/premium-grid.php:209
+msgid "Images to Show"
+msgstr "Images to Show"
+
+#: widgets/premium-grid.php:199
+msgid "Set the minimum number of images before showing load more button"
+msgstr "Set the minimum number of images before showing load more button"
+
+#: widgets/premium-grid.php:197
+msgid "Minimum Number of Images"
+msgstr "Minimum Number of Images"
+
+#: includes/compatibility/class-premium-addons-wpml.php:557
+msgid "Vertical Scroll: Tooltips"
+msgstr "Vertical Scroll: Tooltips"
+
+#: includes/compatibility/class-premium-addons-wpml.php:546
+msgid "Video Box: Description"
+msgstr "Video Box: Description"
+
+#: includes/compatibility/class-premium-addons-wpml.php:541
+msgid "Video Box: Link"
+msgstr "Video Box: Link"
+
+#: includes/compatibility/class-premium-addons-wpml.php:530
+msgid "Title: Text"
+msgstr "Title: Text"
+
+#: includes/compatibility/class-premium-addons-wpml.php:519
+msgid "Testimonial: Content"
+msgstr "Testimonial: Content"
+
+#: includes/compatibility/class-premium-addons-wpml.php:514
+msgid "Testimonial: Company Link"
+msgstr "Testimonial: Company Link"
+
+#: includes/compatibility/class-premium-addons-wpml.php:509
+msgid "Testimonial: Company"
+msgstr "Testimonial: Company"
+
+#: includes/compatibility/class-premium-addons-wpml.php:504
+msgid "Testimonial: Name"
+msgstr "Testimonial: Name"
+
+#: includes/compatibility/class-premium-addons-wpml.php:480
+msgid "Pricing Table: Badge"
+msgstr "Pricing Table: Badge"
+
+#: includes/compatibility/class-premium-addons-wpml.php:475
+msgid "Pricing Table: Button URL"
+msgstr "Pricing Table: Button URL"
+
+#: includes/compatibility/class-premium-addons-wpml.php:470
+msgid "Pricing Table: Button Text"
+msgstr "Pricing Table: Button Text"
+
+#: includes/compatibility/class-premium-addons-wpml.php:465
+msgid "Pricing Table: Description"
+msgstr "Pricing Table: Description"
+
+#: includes/compatibility/class-premium-addons-wpml.php:460
+msgid "Pricing Table: Duration"
+msgstr "Pricing Table: Duration"
+
+#: includes/compatibility/class-premium-addons-wpml.php:455
+msgid "Pricing Table: Separator"
+msgstr "Pricing Table: Separator"
+
+#: includes/compatibility/class-premium-addons-wpml.php:450
+msgid "Pricing Table: Price Value"
+msgstr "Pricing Table: Price Value"
+
+#: includes/compatibility/class-premium-addons-wpml.php:445
+msgid "Pricing Table: Currency"
+msgstr "Pricing Table: Currency"
+
+#: includes/compatibility/class-premium-addons-wpml.php:440
+msgid "Pricing Table: Slashed Price"
+msgstr "Pricing Table: Slashed Price"
+
+#: includes/compatibility/class-premium-addons-wpml.php:435
+msgid "Pricing Table: Title"
+msgstr "Pricing Table: Title"
+
+#: includes/compatibility/class-premium-addons-wpml.php:424
+msgid "Person: Description"
+msgstr "Person: Description"
+
+#: includes/compatibility/class-premium-addons-wpml.php:419
+msgid "Person: Title"
+msgstr "Person: Title"
+
+#: includes/compatibility/class-premium-addons-wpml.php:414
+msgid "Person: Name"
+msgstr "Person: Name"
+
+#: includes/compatibility/class-premium-addons-wpml.php:403
+msgid "Modal Box: Trigger Text"
+msgstr "Modal Box: Trigger Text"
+
+#: includes/compatibility/class-premium-addons-wpml.php:398
+msgid "Modal Box: Trigger Button"
+msgstr "Modal Box: Trigger Button"
+
+#: includes/compatibility/class-premium-addons-wpml.php:393
+msgid "Modal Box: Close Button"
+msgstr "Modal Box: Close Button"
+
+#: includes/compatibility/class-premium-addons-wpml.php:388
+msgid "Modal Box: Content Text"
+msgstr "Modal Box: Content Text"
+
+#: includes/compatibility/class-premium-addons-wpml.php:383
+msgid "Modal Box: Header Title"
+msgstr "Modal Box: Header Title"
+
+#: includes/compatibility/class-premium-addons-wpml.php:355
+msgid "Image Separator: URL"
+msgstr "Image Separator: URL"
+
+#: includes/compatibility/class-premium-addons-wpml.php:350
+msgid "Image Separator: Link Title"
+msgstr "Image Separator: Link Title"
+
+#: includes/compatibility/class-premium-addons-wpml.php:339
+msgid "Image Scroll: URL"
+msgstr "Image Scroll: URL"
+
+#: includes/compatibility/class-premium-addons-wpml.php:334
+msgid "Image Scroll: Link Title"
+msgstr "Image Scroll: Link Title"
+
+#: includes/compatibility/class-premium-addons-wpml.php:306
+msgid "Grid: Load More Button"
+msgstr "Grid: Load More Button"
+
+#: includes/compatibility/class-premium-addons-wpml.php:294
+msgid "Fancy Text: Cursor Text"
+msgstr "Fancy Text: Cursor Text"
+
+#: includes/compatibility/class-premium-addons-wpml.php:289
+msgid "Fancy Text: Suffix"
+msgstr "Fancy Text: Suffix"
+
+#: includes/compatibility/class-premium-addons-wpml.php:284
+msgid "Fancy Text: Prefix"
+msgstr "Fancy Text: Prefix"
+
+#: includes/compatibility/class-premium-addons-wpml.php:263
+msgid "Dual Heading: Second Heading"
+msgstr "Dual Heading: Second Heading"
+
+#: includes/compatibility/class-premium-addons-wpml.php:258
+msgid "Dual Heading: First Heading"
+msgstr "Dual Heading: First Heading"
+
+#: includes/compatibility/class-premium-addons-wpml.php:247
+#: includes/compatibility/class-premium-addons-wpml.php:268
+msgid "Advanced Heading: Heading URL"
+msgstr "Advanced Heading: Heading URL"
+
+#: includes/compatibility/class-premium-addons-wpml.php:242
+msgid "Counter: Suffix"
+msgstr "Counter: Suffix"
+
+#: includes/compatibility/class-premium-addons-wpml.php:237
+msgid "Counter: Prefix"
+msgstr "Counter: Prefix"
+
+#: includes/compatibility/class-premium-addons-wpml.php:232
+msgid "Counter: Thousands Separator"
+msgstr "Counter: Thousands Separator"
+
+#: includes/compatibility/class-premium-addons-wpml.php:227
+msgid "Counter: Title Text"
+msgstr "Counter: Title Text"
+
+#: includes/compatibility/class-premium-addons-wpml.php:216
+msgid "Countdown: Direction URL"
+msgstr "Countdown: Direction URL"
+
+#: includes/compatibility/class-premium-addons-wpml.php:211
+msgid "Countdown: Second Plural"
+msgstr "Countdown: Second Plural"
+
+#: includes/compatibility/class-premium-addons-wpml.php:206
+msgid "Countdown: Second Singular"
+msgstr "Countdown: Second Singular"
+
+#: includes/compatibility/class-premium-addons-wpml.php:201
+msgid "Countdown: Minute Plural"
+msgstr "Countdown: Minute Plural"
+
+#: includes/compatibility/class-premium-addons-wpml.php:196
+msgid "Countdown: Minute Singular"
+msgstr "Countdown: Minute Singular"
+
+#: includes/compatibility/class-premium-addons-wpml.php:191
+msgid "Countdown: Hour Plural"
+msgstr "Countdown: Hour Plural"
+
+#: includes/compatibility/class-premium-addons-wpml.php:186
+msgid "Countdown: Hour Singular"
+msgstr "Countdown: Hour Singular"
+
+#: includes/compatibility/class-premium-addons-wpml.php:181
+msgid "Countdown: Year Plural"
+msgstr "Countdown: Year Plural"
+
+#: includes/compatibility/class-premium-addons-wpml.php:176
+msgid "Countdown: Year Singular"
+msgstr "Countdown: Year Singular"
+
+#: includes/compatibility/class-premium-addons-wpml.php:171
+msgid "Countdown: Month Plural"
+msgstr "Countdown: Month Plural"
+
+#: includes/compatibility/class-premium-addons-wpml.php:166
+msgid "Countdown: Month Singular"
+msgstr "Countdown: Month Singular"
+
+#: includes/compatibility/class-premium-addons-wpml.php:161
+msgid "Countdown: Week Plural"
+msgstr "Countdown: Week Plural"
+
+#: includes/compatibility/class-premium-addons-wpml.php:156
+msgid "Countdown: Week Singular"
+msgstr "Countdown: Week Singular"
+
+#: includes/compatibility/class-premium-addons-wpml.php:151
+msgid "Countdown: Day Plural"
+msgstr "Countdown: Day Plural"
+
+#: includes/compatibility/class-premium-addons-wpml.php:146
+msgid "Countdown: Day Singular"
+msgstr "Countdown: Day Singular"
+
+#: includes/compatibility/class-premium-addons-wpml.php:141
+msgid "Countdown: Expiration Message"
+msgstr "Countdown: Expiration Message"
+
+#: includes/compatibility/class-premium-addons-wpml.php:130
+#: includes/compatibility/class-premium-addons-wpml.php:323
+msgid "Button: URL"
+msgstr "Button: URL"
+
+#: includes/compatibility/class-premium-addons-wpml.php:125
+#: includes/compatibility/class-premium-addons-wpml.php:318
+msgid "Button: Text"
+msgstr "Button: Text"
+
+#: includes/compatibility/class-premium-addons-wpml.php:114
+msgid "Banner: Button URL"
+msgstr "Banner: Button URL"
+
+#: includes/compatibility/class-premium-addons-wpml.php:109
+msgid "Banner: URL"
+msgstr "Banner: URL"
+
+#: includes/compatibility/class-premium-addons-wpml.php:104
+msgid "Banner: Button Text"
+msgstr "Banner: Button Text"
+
+#: includes/compatibility/class-premium-addons-wpml.php:99
+msgid "Banner: Description"
+msgstr "Banner: Description"
+
+#: includes/compatibility/class-premium-addons-wpml.php:94
+msgid "Banner: Title"
+msgstr "Banner: Title"
+
+#: includes/compatibility/widgets/pricing-table.php:50
+msgid "Pricing Table: Item Text"
+msgstr "Pricing Table: Item Text"
+
+#: includes/compatibility/widgets/vertical-scroll.php:50
+msgid "Vertical Scroll: Section ID"
+msgstr "Vertical Scroll: Section ID"
+
+#: includes/compatibility/widgets/maps.php:63
+msgid "Maps: Marker Description"
+msgstr "Maps: Marker Description"
+
+#: includes/compatibility/widgets/maps.php:60
+msgid "Maps: Marker Title"
+msgstr "Maps: Marker Title"
+
+#: includes/compatibility/widgets/maps.php:57
+msgid "Maps: Marker Longitude"
+msgstr "Maps: Marker Longitude"
+
+#: includes/compatibility/widgets/maps.php:54
+msgid "Maps: Marker Latitude"
+msgstr "Maps: Marker Latitude"
+
+#: includes/compatibility/widgets/grid.php:55
+msgid "Grid: Image Description"
+msgstr "Grid: Image Description"
+
+#: includes/compatibility/widgets/grid.php:52
+msgid "Grid: Image Name"
+msgstr "Grid: Image Name"
+
+#: includes/compatibility/widgets/progress-bar.php:50
+msgid "Progress Bar: Label Text"
+msgstr "Progress Bar: Label Text"
+
+#: admin/settings/modules-setting.php:321 widgets/premium-pricing-table.php:33
+#: widgets/premium-pricing-table.php:92
+msgid "Pricing Table"
+msgstr "Pricing Table"
+
+#: includes/compatibility/class-premium-addons-wpml.php:492
+msgid "Progress Bar: Left Label"
+msgstr "Progress Bar: Left Label"
+
+#: includes/compatibility/class-premium-addons-wpml.php:371
+msgid "Maps: Center Longitude"
+msgstr "Maps: Centre Longitude"
+
+#: includes/compatibility/class-premium-addons-wpml.php:366
+msgid "Maps: Center Latitude"
+msgstr "Maps: Centre Latitude"
+
+#: widgets/premium-carousel.php:402
+msgid "Sets the breakpoint between tablet and mobile devices. Below this breakpoint mobile layout will appear (Default: 768px)."
+msgstr "Sets the breakpoint between tablet and mobile devices. Below this breakpoint mobile layout will appear (Default: 768px)."
+
+#: widgets/premium-carousel.php:401
+msgid "Mobile Breakpoint"
+msgstr "Mobile Breakpoint"
+
+#: widgets/premium-carousel.php:393
+msgid "Sets the breakpoint between desktop and tablet devices. Below this breakpoint tablet layout will appear (Default: 1025px)."
+msgstr "Sets the breakpoint between desktop and tablet devices. Below this breakpoint tablet layout will appear (Default: 1025px)."
+
+#: widgets/premium-carousel.php:392
+msgid "Tablet Breakpoint"
+msgstr "Tablet Breakpoint"
+
+#: widgets/premium-grid.php:187
+msgid "Load More"
+msgstr "Load More"
+
+#: widgets/premium-grid.php:178
+msgid "Requires number of images larger than 6"
+msgstr "Requires number of images larger than 6"
+
+#: widgets/premium-grid.php:177 widgets/premium-grid.php:1695
+msgid "Load More Button"
+msgstr "Load More Button"
+
+#: widgets/premium-grid.php:1737
+msgid "Spinner Color"
+msgstr "Spinner Colour"
+
+#: admin/includes/dep/admin-helper.php:47
+msgid "Settings"
+msgstr "Settings"
+
+#: widgets/premium-person.php:369
+msgid "Skype"
+msgstr "Skype"
+
+#: widgets/premium-image-scroll.php:273
+msgid "Hide"
+msgstr "Hide"
+
+#: widgets/premium-image-scroll.php:272
+msgid "Show"
+msgstr "Show"
+
+#: widgets/premium-image-scroll.php:226
+msgid "Set the scroll speed value. The value will be counted in seconds (s)"
+msgstr "Set the scroll speed value. The value will be counted in seconds (s)"
+
+#: widgets/premium-image-scroll.php:225
+msgid "Speed"
+msgstr "Speed"
+
+#: widgets/premium-image-scroll.php:217
+msgid "Mouse Scroll"
+msgstr "Mouse Scroll"
+
+#: widgets/premium-image-scroll.php:203
+msgid "Reverse Direction"
+msgstr "Reverse Direction"
+
+#: widgets/premium-image-scroll.php:191
+msgid "Select Scroll Direction"
+msgstr "Select Scroll Direction"
+
+#: widgets/premium-image-scroll.php:190
+msgid "Direction"
+msgstr "Direction"
+
+#: widgets/premium-image-scroll.php:171 widgets/premium-banner.php:125
+msgid "Link Title"
+msgstr "Link Title"
+
+#: widgets/premium-image-scroll.php:79
+msgid "Choose the scroll image"
+msgstr "Choose the scroll image"
+
+#: widgets/premium-blog.php:448
+msgid "Total Number of Posts"
+msgstr "Total Number of Posts"
+
+#: widgets/premium-videobox.php:259 widgets/premium-videobox.php:287
+#: widgets/premium-image-scroll.php:270
+msgid "Overlay"
+msgstr "Overlay"
+
+#: widgets/premium-grid.php:902
+msgid "Overlay Gallery Images"
+msgstr "Overlay Gallery Images"
+
+#: widgets/premium-grid.php:396 widgets/premium-grid.php:416
+msgid "Works only when layout set to 'Metro'"
+msgstr "Works only when layout set to 'Metro'"
+
+#: widgets/premium-grid.php:87
+msgid "Metro"
+msgstr "Metro"
+
+#: widgets/premium-blog.php:158 widgets/premium-grid.php:76
+msgid "Layout"
+msgstr "Layout"
+
+#: widgets/premium-blog.php:679
+msgid "Arrows Position"
+msgstr "Arrows Position"
+
+#: widgets/premium-blog.php:635
+msgid "Auto Play"
+msgstr "Auto Play"
+
+#: widgets/premium-blog.php:618
+msgid "Enable Carousel"
+msgstr "Enable Carousel"
+
+#: widgets/premium-blog.php:733
+msgid "Previous Page String"
+msgstr "Previous Page String"
+
+#: widgets/premium-blog.php:722
+msgid "Next Page String"
+msgstr "Next Page String"
+
+#: widgets/premium-carousel.php:170
+msgid "Vertical Offset"
+msgstr "Vertical Offset"
+
+#: widgets/premium-carousel.php:155
+msgid "Horizontal Offset"
+msgstr "Horizontal Offset"
+
+#: widgets/premium-carousel.php:145
+msgid "On Slides"
+msgstr "On Slides"
+
+#: widgets/premium-carousel.php:144
+msgid "Below Slides"
+msgstr "Below Slides"
+
+#: widgets/premium-carousel.php:264
+msgid "Zoom Effect"
+msgstr "Zoom Effect"
+
+#: widgets/premium-carousel.php:255
+msgid "Enable fade transition between slides"
+msgstr "Enable fade transition between slides"
+
+#: widgets/premium-blog.php:625 widgets/premium-carousel.php:253
+msgid "Fade"
+msgstr "Fade"
+
+#: widgets/premium-blog.php:590
+msgid "Ascending"
+msgstr "Ascending"
+
+#: widgets/premium-blog.php:589
+msgid "Descending"
+msgstr "Descending"
+
+#: widgets/premium-blog.php:585
+msgid "Order"
+msgstr "Order"
+
+#: widgets/premium-blog.php:577
+msgid "Number of Comments"
+msgstr "Number of Comments"
+
+#: widgets/premium-blog.php:576
+msgid "Random"
+msgstr "Random"
+
+#: widgets/premium-blog.php:575
+msgid "Last Modified"
+msgstr "Last Modified"
+
+#: widgets/premium-blog.php:574
+msgid "Date"
+msgstr "Date"
+
+#: widgets/premium-blog.php:565
+msgid "Order By"
+msgstr "Order By"
+
+#: widgets/premium-blog.php:556
+msgid "Add post(s) to exclude"
+msgstr "Add post(s) to exclude"
+
+#: widgets/premium-blog.php:554
+msgid "Posts to Exclude"
+msgstr "Posts to Exclude"
+
+#: widgets/premium-blog.php:545
+msgid "Get posts for specific author(s)"
+msgstr "Get posts for specific author(s)"
+
+#: widgets/premium-blog.php:543
+msgid "Filter By Author"
+msgstr "Filter By Author"
+
+#: widgets/premium-blog.php:534
+msgid "Get posts for specific tag(s)"
+msgstr "Get posts for specific tag(s)"
+
+#: widgets/premium-blog.php:532
+msgid "Filter By Tag"
+msgstr "Filter By Tag"
+
+#: widgets/premium-blog.php:472
+msgid "Get posts for specific category(s)"
+msgstr "Get posts for specific category(s)"
+
+#: widgets/premium-blog.php:470
+msgid "Filter By Category"
+msgstr "Filter By Category"
+
+#: widgets/premium-blog.php:317
+msgid "Post Options"
+msgstr "Post Options"
+
+#: admin/includes/admin-notices.php:291
+msgid "Install it Now."
+msgstr "Install it Now."
+
+#: admin/includes/admin-notices.php:290
+msgid "is Now Available."
+msgstr "is Now Available."
+
+#: admin/includes/admin-notices.php:290
+msgid "Premium Blocks for Gutenberg"
+msgstr "Premium Blocks for Gutenberg"
+
+#: widgets/premium-grid.php:616
+msgid "Whole Image Lightbox"
+msgstr "Whole Image Lightbox"
+
+#: widgets/premium-grid.php:163
+msgid "12 Columns"
+msgstr "12 Columns"
+
+#: widgets/premium-blog.php:724
+msgid "Next"
+msgstr "Next"
+
+#: widgets/premium-blog.php:735
+msgid "Previous"
+msgstr "Previous"
+
+#: widgets/premium-modalbox.php:254
+msgid "Page Load"
+msgstr "Page Load"
+
+#: admin/settings/modules-setting.php:339 widgets/premium-carousel.php:81
+#: widgets/premium-carousel.php:104
+msgid "Templates"
+msgstr "Templates"
+
+#: widgets/premium-carousel.php:73
+msgid "Repeater"
+msgstr "Repeater"
+
+#: widgets/premium-carousel.php:72
+msgid "Select Field"
+msgstr "Select Field"
+
+#: widgets/premium-carousel.php:69
+msgid "How templates are selected"
+msgstr "How templates are selected"
+
+#: widgets/premium-person.php:356
+msgid "Instagram"
+msgstr "Instagram"
+
+#: widgets/premium-videobox.php:73 widgets/premium-grid.php:448
+msgid "Self Hosted"
+msgstr "Self Hosted"
+
+#: admin/includes/dep/rollback.php:82
+msgid "Rolling Back to Version "
+msgstr "Rolling Back to Version "
+
+#: admin/includes/admin-notices.php:219
+msgid "I Already did"
+msgstr "I Already did"
+
+#: admin/includes/admin-notices.php:218
+msgid "Maybe Later"
+msgstr "Maybe Later"
+
+#: admin/includes/admin-notices.php:217
+msgid "Leave a Review"
+msgstr "Leave a Review"
+
+#: admin/includes/admin-notices.php:215
+msgid "Plugin?"
+msgstr "Plugin?"
+
+#: admin/includes/admin-notices.php:215
+msgid "Did you like"
+msgstr "Did you like"
+
+#: admin/settings/modules-setting.php:40
+msgid "Are you sure you want to reinstall version "
+msgstr "Are you sure you want to reinstall version "
+
+#: admin/includes/admin-notices.php:216
+msgid "Could you please do us a BIG favor ? if you could take 2 min of your time, we'd really appreciate if you give Premium Addons for Elementor 5-star rating on WordPress. By spreading the love, we can create even greater free stuff in the future!"
+msgstr "Could you please do us a BIG favour ? if you could take 2 min of your time, we'd really appreciate if you give Premium Addons for Elementor 5-star rating on WordPress. By spreading the love, we can create even greater free stuff in the future!"
+
+#: widgets/premium-progressbar.php:215
+msgid "Speed (milliseconds)"
+msgstr "Speed (milliseconds)"
+
+#: widgets/premium-maps.php:84
+msgid "Get center location from visitor's location"
+msgstr "Get centre location from visitor's location"
+
+#: widgets/premium-maps.php:83
+msgid "Get User Location"
+msgstr "Get User Location"
+
+#: widgets/premium-vscroll.php:221
+msgid "Menu Items"
+msgstr "Menu Items"
+
+#: widgets/premium-vscroll.php:85
+msgid "Choose which method you prefer to insert sections."
+msgstr "Choose which method you prefer to insert sections."
+
+#: widgets/premium-vscroll.php:81
+msgid "Elementor Templates"
+msgstr "Elementor Templates"
+
+#: widgets/premium-vscroll.php:82 widgets/premium-vscroll.php:116
+msgid "Section ID"
+msgstr "Section ID"
+
+#: widgets/premium-videobox.php:183
+msgid "This will play the video muted"
+msgstr "This will play the video muted"
+
+#: widgets/premium-videobox.php:181 widgets/premium-grid.php:526
+msgid "Mute"
+msgstr "Mute"
+
+#: widgets/premium-vscroll.php:259
+msgid "Dots Tooltips"
+msgstr "Dots Tooltips"
+
+#: widgets/premium-grid.php:606
+msgid "Whole Image Link"
+msgstr "Whole Image Link"
+
+#: widgets/premium-vscroll.php:672 widgets/premium-blog.php:1282
+#: widgets/premium-grid.php:1610
+msgid "Active"
+msgstr "Active"
+
+#: widgets/premium-vscroll.php:517
+msgid "Active Dot Color"
+msgstr "Active Dot Colour"
+
+#: widgets/premium-vscroll.php:503
+msgid "Dots Color"
+msgstr "Dots Colour"
+
+#: widgets/premium-vscroll.php:412
+msgid "Tooltips Background"
+msgstr "Tooltips Background"
+
+#: widgets/premium-vscroll.php:383
+msgid "Tooltips Text Color"
+msgstr "Tooltips Text Colour"
+
+#: widgets/premium-vscroll.php:374
+msgid "Tooltips"
+msgstr "Tooltips"
+
+#: widgets/premium-vscroll.php:336
+msgid "Full Section Scroll"
+msgstr "Full Section Scroll"
+
+#: widgets/premium-vscroll.php:330
+msgid "Set scolling speed in seconds, default: 0.7"
+msgstr "Set scolling speed in seconds, default: 0.7"
+
+#: widgets/premium-vscroll.php:328
+msgid "Scroll Speed"
+msgstr "Scroll Speed"
+
+#: widgets/premium-vscroll.php:322
+msgid "Scroll Settings"
+msgstr "Scroll Settings"
+
+#: widgets/premium-vscroll.php:246
+msgid "Dots Vertical Position"
+msgstr "Dots Vertical Position"
+
+#: widgets/premium-vscroll.php:233
+msgid "Dots Horizontal Position"
+msgstr "Dots Horizontal Position"
+
+#: widgets/premium-vscroll.php:286
+msgid "Add text for each navigation dot separated by ','"
+msgstr "Add text for each navigation dot separated by ','"
+
+#: widgets/premium-vscroll.php:283
+msgid "Dots Tooltips Text"
+msgstr "Dots Tooltips Text"
+
+#: widgets/premium-vscroll.php:213
+msgid "List Item"
+msgstr "List Item"
+
+#: widgets/premium-vscroll.php:196
+msgid "Offset Right"
+msgstr "Offset Right"
+
+#: widgets/premium-vscroll.php:181
+msgid "Offset Left"
+msgstr "Offset Left"
+
+#: widgets/premium-vscroll.php:167
+msgid "Offset Top"
+msgstr "Offset Top"
+
+#: widgets/premium-vscroll.php:146
+msgid "This option works only on the frontend"
+msgstr "This option works only on the frontend"
+
+#: widgets/premium-vscroll.php:144 widgets/premium-vscroll.php:593
+msgid "Navigation Menu"
+msgstr "Navigation Menu"
+
+#: includes/templates/types/section.php:23 widgets/premium-vscroll.php:102
+#: widgets/premium-vscroll.php:124
+msgid "Sections"
+msgstr "Sections"
+
+#: widgets/premium-modalbox.php:173 widgets/premium-vscroll.php:93
+msgid "Elementor Template"
+msgstr "Elementor Template"
+
+#: widgets/premium-modalbox.php:172
+msgid "Text Editor"
+msgstr "Text Editor"
+
+#: widgets/premium-vscroll.php:78 widgets/premium-carousel.php:68
+msgid "Content Type"
+msgstr "Content Type"
+
+#: widgets/premium-vscroll.php:531
+msgid "Dots Border Color"
+msgstr "Dots Border Colour"
+
+#: includes/templates/scripts/template-modal-header.php:9
+#: widgets/premium-modalbox.php:227
+msgid "Close"
+msgstr "Close"
+
+#: widgets/premium-grid.php:267
+msgid "First Category"
+msgstr "First Category"
+
+#: widgets/premium-grid.php:331
+msgid "Put the index of the default active category, default is 1"
+msgstr "Put the index of the default active category, default is 1"
+
+#: widgets/premium-grid.php:329
+msgid "Active Category Index"
+msgstr "Active Category Index"
+
+#: widgets/premium-grid.php:298
+msgid "Rotation Degrees"
+msgstr "Rotation Degrees"
+
+#: widgets/premium-grid.php:300
+msgid "Set rotation value in degrees"
+msgstr "Set rotation value in degrees"
+
+#: widgets/premium-maps.php:154
+msgid "Set the Maximum width for markers description box"
+msgstr "Set the Maximum width for markers description box"
+
+#: widgets/premium-maps.php:152
+msgid "Max Width"
+msgstr "Max Width"
+
+#: widgets/premium-maps.php:92 widgets/premium-maps.php:162
+msgid "Latitude & Longitude Finder"
+msgstr "Latitude & Longitude Finder"
+
+#: includes/templates/classes/manager.php:189 widgets/premium-blog.php:493
+#: widgets/premium-grid.php:278
+msgid "All"
+msgstr "All"
+
+#: widgets/premium-blog.php:491 widgets/premium-grid.php:276
+msgid "First Category Label"
+msgstr "First Category Label"
+
+#: admin/settings/modules-setting.php:619
+msgid "Premium Whatsapp Chat"
+msgstr "Premium Whatsapp Chat"
+
+#: widgets/premium-maps.php:359
+msgid "Marker Clustering"
+msgstr "Marker Clustering"
+
+#: widgets/premium-maps.php:102 widgets/premium-maps.php:169
+msgid "Find Latitude & Longitude"
+msgstr "Find Latitude & Longitude"
+
+#: widgets/premium-dual-header.php:223 widgets/premium-dual-header.php:420
+msgid "Animated Background"
+msgstr "Animated Background"
+
+#: widgets/premium-banner.php:178
+msgid "Choose if you want the effect to be always triggered"
+msgstr "Choose if you want the effect to be always triggered"
+
+#: widgets/premium-banner.php:176
+msgid "Always Hovered"
+msgstr "Always Hovered"
+
+#: widgets/premium-banner.php:238
+msgid "Full"
+msgstr "Full"
+
+#: widgets/premium-vscroll.php:250 widgets/premium-banner.php:236
+msgid "Middle"
+msgstr "Middle"
+
+#: admin/includes/admin-notices.php:197
+msgid "Activate Now"
+msgstr "Activate Now"
+
+#: admin/includes/admin-notices.php:195
+msgid "Premium Addons for Elementor is not working because you need to activate Elementor plugin."
+msgstr "Premium Addons for Elementor is not working because you need to activate Elementor plugin."
+
+#: admin/includes/admin-notices.php:187
+msgid "Install Now"
+msgstr "Install Now"
+
+#: admin/includes/admin-notices.php:185
+msgid "Premium Addons for Elementor is not working because you need to Install Elementor plugin."
+msgstr "Premium Addons for Elementor is not working because you need to Install Elementor plugin."
+
+#: admin/includes/version-control.php:35
+msgid "Version Control"
+msgstr "Version Control"
+
+#: admin/includes/reports.php:20
+msgid "System Info"
+msgstr "System Info"
+
+#: admin/includes/papro-actions.php:49
+msgid "Widgets Settings"
+msgstr "Widgets Settings"
+
+#: admin/includes/papro-actions.php:16
+msgid "Get PRO Widgets & Addons"
+msgstr "Get PRO Widgets & Addons"
+
+#: admin/settings/modules-setting.php:664
+msgid "Premium Section Ken Burns"
+msgstr "Premium Section Ken Burns"
+
+#: admin/settings/modules-setting.php:657
+msgid "Premium Section Animated Gradient"
+msgstr "Premium Section Animated Gradient"
+
+#: admin/settings/modules-setting.php:647
+msgid "Premium Section Particles"
+msgstr "Premium Section Particles"
+
+#: admin/settings/modules-setting.php:640
+msgid "Premium Section Parallax"
+msgstr "Premium Section Parallax"
+
+#: admin/settings/modules-setting.php:414
+msgid "Premium Content Switcher"
+msgstr "Premium Content Switcher"
+
+#: admin/settings/modules-setting.php:488
+msgid "Premium iHover"
+msgstr "Premium iHover"
+
+#: admin/settings/modules-setting.php:525
+msgid "Premium Image Layers"
+msgstr "Premium Image Layers"
+
+#: admin/settings/modules-setting.php:394
+msgid "Premium Behance Feed"
+msgstr "Premium Behance Feed"
+
+#: admin/settings/modules-setting.php:470
+msgid "Premium Google Reviews"
+msgstr "Premium Google Reviews"
+
+#: admin/settings/modules-setting.php:543
+msgid "Premium Magic Section"
+msgstr "Premium Magic Section"
+
+#: admin/settings/modules-setting.php:444
+msgid "Premium Facebook Feed"
+msgstr "Premium Facebook Feed"
+
+#: admin/settings/modules-setting.php:433
+msgid "Premium Divider"
+msgstr "Premium Divider"
+
+#: admin/settings/modules-setting.php:506
+msgid "Premium Image Comparison"
+msgstr "Premium Image Comparison"
+
+#: admin/settings/modules-setting.php:452
+msgid "Premium Facebook Reviews"
+msgstr "Premium Facebook Reviews"
+
+#: admin/settings/modules-setting.php:517
+msgid "Premium Image Hotspots"
+msgstr "Premium Image Hotspots"
+
+#: admin/settings/modules-setting.php:573
+msgid "Premium Preview Window"
+msgstr "Premium Preview Window"
+
+#: admin/settings/modules-setting.php:554
+msgid "Premium Messenger Chat"
+msgstr "Premium Messenger Chat"
+
+#: admin/settings/modules-setting.php:611
+msgid "Premium Unfold"
+msgstr "Premium Unfold"
+
+#: admin/settings/modules-setting.php:462
+msgid "Premium Flip Box"
+msgstr "Premium Flip Box"
+
+#: admin/settings/modules-setting.php:535
+msgid "Premium Instagram Feed"
+msgstr "Premium Instagram Feed"
+
+#: admin/settings/modules-setting.php:600
+msgid "Premium Twitter Feed"
+msgstr "Premium Twitter Feed"
+
+#: admin/settings/modules-setting.php:480
+msgid "Premium Icon Box"
+msgstr "Premium Icon Box"
+
+#: admin/settings/modules-setting.php:386
+msgid "Premium Alert Box"
+msgstr "Premium Alert Box"
+
+#: admin/settings/modules-setting.php:156 admin/settings/maps.php:73
+#: admin/includes/version-control.php:74 admin/includes/plugin-info.php:40
+#: admin/includes/reports.php:34
+msgid "Thank you for using %s. This plugin has been developed by %s and we hope you enjoy using it."
+msgstr "Thank you for using %s. This plugin has been developed by %s and we hope you enjoy using it."
+
+#: admin/includes/plugin-info.php:17
+msgid "About"
+msgstr "About"
+
+#: admin/settings/modules-setting.php:581
+msgid "Premium Table"
+msgstr "Premium Table"
+
+#: admin/settings/modules-setting.php:406
+msgid "Premium Charts"
+msgstr "Premium Charts"
+
+#: widgets/premium-blog.php:133
+msgid "Select a heading tag for the post title."
+msgstr "Select a heading tag for the post title."
+
+#: widgets/premium-person.php:156 widgets/premium-blog.php:81
+#: widgets/premium-grid.php:753
+msgid "Translate"
+msgstr "Translate"
+
+#: widgets/premium-person.php:155 widgets/premium-banner.php:194
+#: widgets/premium-blog.php:80 widgets/premium-grid.php:752
+msgid "Sepia"
+msgstr "Sepia"
+
+#: widgets/premium-person.php:154 widgets/premium-banner.php:193
+#: widgets/premium-blog.php:79 widgets/premium-grid.php:751
+msgid "Bright"
+msgstr "Bright"
+
+#: widgets/premium-pricing-table.php:134 widgets/premium-pricing-table.php:807
+msgid "Slashed Price"
+msgstr "Slashed Price"
+
+#: widgets/premium-blog.php:368
+msgid "continue reading"
+msgstr "continue reading"
+
+#: widgets/premium-blog.php:366
+msgid "Link Text"
+msgstr "Link Text"
+
+#: widgets/premium-blog.php:353
+msgid "Excerpt Type"
+msgstr "Excerpt Type"
+
+#: widgets/premium-blog.php:173
+msgid "Number of Columns"
+msgstr "Number of Columns"
+
+#: widgets/premium-blog.php:150
+msgid "Grid"
+msgstr "Grid"
+
+#: widgets/premium-blog.php:600
+msgid "Enable links to be opened in a new tab"
+msgstr "Enable links to be opened in a new tab"
+
+#: widgets/premium-blog.php:598
+msgid "Links in New Tab"
+msgstr "Links in New Tab"
+
+#: widgets/premium-carousel.php:796
+msgid "Ripple Color"
+msgstr "Ripple Colour"
+
+#: widgets/premium-carousel.php:786
+msgid "Enable a ripple effect when the active dot is hovered/clicked"
+msgstr "Enable a ripple effect when the active dot is hovered/clicked"
+
+#: widgets/premium-carousel.php:785
+msgid "Ripple Effect"
+msgstr "Ripple Effect"
+
+#: widgets/premium-modalbox.php:183
+msgid "Modal content is a template which you can choose from Elementor library"
+msgstr "Modal content is a template which you can choose from Elementor library"
+
+#: widgets/premium-contactform.php:111 widgets/premium-contactform.php:165
+msgid "Text Area"
+msgstr "Text Area"
+
+#: widgets/premium-contactform.php:85 widgets/premium-contactform.php:143
+msgid "Input Field"
+msgstr "Input Field"
+
+#: widgets/premium-contactform.php:73
+msgid "Fields"
+msgstr "Fields"
+
+#: widgets/premium-modalbox.php:79
+msgid "Enable or disable modal header"
+msgstr "Enable or disable modal header"
+
+#: widgets/premium-modalbox.php:74
+msgid "Header"
+msgstr "Header"
+
+#: widgets/premium-modalbox.php:169
+msgid "Content to Show"
+msgstr "Content to Show"
+
+#. Description of the plugin
+msgid "Premium Addons Plugin Includes 22+ premium widgets for Elementor Page Builder."
+msgstr "Premium Addons Plugin Includes 22+ premium widgets for Elementor Page Builder."
+
+#: widgets/premium-dual-header.php:121
+msgid "Enable or disable link"
+msgstr "Enable or disable link"
+
+#: admin/includes/version-control.php:110
+msgid "Check this box to get updates for beta versions"
+msgstr "Check this box to get updates for beta versions"
+
+#: admin/includes/version-control.php:108
+msgid "Beta Tester"
+msgstr "Beta Tester"
+
+#: admin/settings/modules-setting.php:43
+msgid "Cancel"
+msgstr "Cancel"
+
+#: admin/settings/modules-setting.php:42
+msgid "Yes"
+msgstr "Yes"
+
+#: admin/settings/modules-setting.php:41 admin/includes/version-control.php:88
+#: admin/includes/dep/maintenance.php:28
+msgid "Rollback to Previous Version"
+msgstr "Rollback to Previous Version"
+
+#: widgets/premium-maps.php:348
+msgid "Info Container Closed when Mouse Out"
+msgstr "Info Container Closed when Mouse Out"
+
+#: widgets/premium-maps.php:341
+msgid "Info Container Opened when Hovered"
+msgstr "Info Container Opened when Hovered"
+
+#: widgets/premium-blog.php:1563
+msgid "Background Active Color"
+msgstr "Background Active Colour"
+
+#: widgets/premium-grid.php:1272
+msgid "Icons"
+msgstr "Icons"
+
+#: widgets/premium-grid.php:981
+msgid "General"
+msgstr "General"
+
+#: widgets/premium-grid.php:936
+msgid "If the content text is not suiting well on specific screen sizes, you may enable this option which will hide the description text."
+msgstr "If the content text is not suiting well on specific screen sizes, you may enable this option which will hide the description text."
+
+#: widgets/premium-blog.php:178 widgets/premium-grid.php:159
+msgid "3 Columns"
+msgstr "3 Columns"
+
+#: widgets/premium-blog.php:177 widgets/premium-grid.php:158
+msgid "2 Columns"
+msgstr "2 Columns"
+
+#: widgets/premium-blog.php:176 widgets/premium-grid.php:157
+msgid "1 Column"
+msgstr "1 Column"
+
+#: widgets/premium-grid.php:150
+msgid "Columns"
+msgstr "Columns"
+
+#: widgets/premium-grid.php:626
+msgid "Images"
+msgstr "Images"
+
+#: widgets/premium-grid.php:290 widgets/premium-grid.php:553
+msgid "Category"
+msgstr "Category"
+
+#: widgets/premium-grid.php:815
+msgid "Content Alignment"
+msgstr "Content Alignment"
+
+#: widgets/premium-grid.php:843 widgets/premium-grid.php:849
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: widgets/premium-blog.php:1503 widgets/premium-grid.php:1492
+msgid "Filter"
+msgstr "Filter"
+
+#: widgets/premium-title.php:73 widgets/premium-grid.php:698
+msgid "Style 3"
+msgstr "Style 3"
+
+#: widgets/premium-person.php:63 widgets/premium-title.php:72
+#: widgets/premium-grid.php:697
+msgid "Style 2"
+msgstr "Style 2"
+
+#: widgets/premium-person.php:62 widgets/premium-title.php:71
+#: widgets/premium-grid.php:696
+msgid "Style 1"
+msgstr "Style 1"
+
+#: widgets/premium-grid.php:694
+msgid "Choose a layout style for the gallery"
+msgstr "Choose a layout style for the gallery"
+
+#: widgets/premium-blog.php:98 widgets/premium-grid.php:692
+msgid "Skin"
+msgstr "Skin"
+
+#: widgets/premium-grid.php:675
+msgid "Image Gap"
+msgstr "Image Gap"
+
+#: widgets/premium-blog.php:162 widgets/premium-grid.php:86
+msgid "Masonry"
+msgstr "Masonry"
+
+#: widgets/premium-blog.php:161 widgets/premium-grid.php:85
+msgid "Even"
+msgstr "Even"
+
+#: widgets/premium-grid.php:82
+msgid "Grid Layout"
+msgstr "Grid Layout"
+
+#: widgets/premium-grid.php:162
+msgid "6 Columns"
+msgstr "6 Columns"
+
+#: widgets/premium-grid.php:161
+msgid "5 Columns"
+msgstr "5 Columns"
+
+#: widgets/premium-blog.php:179 widgets/premium-grid.php:160
+msgid "4 Columns"
+msgstr "4 Columns"
+
+#: widgets/premium-videobox.php:377
+msgid "Play Video"
+msgstr "Play Video"
+
+#: widgets/premium-testimonials.php:498
+msgid "Bottom Icon Position"
+msgstr "Bottom Icon Position"
+
+#: widgets/premium-testimonials.php:481
+msgid "Top Icon Position"
+msgstr "Top Icon Position"
+
+#: widgets/premium-testimonials.php:439
+msgid "Quotation Icon"
+msgstr "Quotation Icon"
+
+#: widgets/premium-testimonials.php:259
+msgid "Border Width (PX)"
+msgstr "Border Width (PX)"
+
+#: widgets/premium-testimonials.php:120 widgets/premium-testimonials.php:347
+msgid "Company"
+msgstr "Company"
+
+#: widgets/premium-testimonials.php:50 widgets/premium-testimonials.php:297
+#: widgets/premium-blog.php:571
+msgid "Author"
+msgstr "Author"
+
+#: widgets/premium-progressbar.php:223
+msgid "Animated"
+msgstr "Animated"
+
+#: widgets/premium-pricing-table.php:1710
+msgid "Box Settings"
+msgstr "Box Settings"
+
+#: widgets/premium-pricing-table.php:1640
+#: widgets/premium-pricing-table.php:1659
+msgid "Horizontal Distance"
+msgstr "Horizontal Distance"
+
+#: widgets/premium-pricing-table.php:1624
+msgid "Vertical Distance"
+msgstr "Vertical Distance"
+
+#: widgets/premium-pricing-table.php:1204
+msgid "Vertical Spacing"
+msgstr "Vertical Spacing"
+
+#: widgets/premium-pricing-table.php:1191
+msgid "Spacing"
+msgstr "Spacing"
+
+#: widgets/premium-image-scroll.php:387 widgets/premium-pricing-table.php:630
+#: widgets/premium-pricing-table.php:1066
+#: widgets/premium-pricing-table.php:1214
+#: widgets/premium-pricing-table.php:1325 widgets/premium-vscroll.php:547
+#: widgets/premium-testimonials.php:517 widgets/premium-banner.php:788
+msgid "Container"
+msgstr "Container"
+
+#: widgets/premium-pricing-table.php:459 widgets/premium-vscroll.php:152
+#: widgets/premium-carousel.php:140 widgets/premium-grid.php:1278
+msgid "Position"
+msgstr "Position"
+
+#: widgets/premium-pricing-table.php:223 widgets/premium-pricing-table.php:503
+#: widgets/premium-pricing-table.php:1118
+msgid "Features"
+msgstr "Features"
+
+#: widgets/premium-person.php:410
+msgid "Behance"
+msgstr "Behance"
+
+#: widgets/premium-person.php:382
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/settings/modules-setting.php:303 widgets/premium-person.php:28
+#: widgets/premium-person.php:169
+msgid "Person"
+msgstr "Person"
+
+#: widgets/premium-modalbox.php:972 widgets/premium-modalbox.php:1130
+#: widgets/premium-person.php:92 widgets/premium-grid.php:395
+#: widgets/premium-contactform.php:78 widgets/premium-contactform.php:195
+msgid "Width"
+msgstr "Width"
+
+#: widgets/premium-modalbox.php:505 widgets/premium-image-scroll.php:213
+msgid "Trigger"
+msgstr "Trigger"
+
+#: widgets/premium-fancytext.php:259
+msgid "Set a duration value in milliseconds for slide up effect."
+msgstr "Set a duration value in milliseconds for slide up effect."
+
+#: widgets/premium-fancytext.php:256
+msgid "Animation Speed"
+msgstr "Animation Speed"
+
+#: widgets/premium-fancytext.php:242
+msgid "Cursor Mark"
+msgstr "Cursor Mark"
+
+#: widgets/premium-fancytext.php:208
+msgid "If you set it on 5000 milliseconds, the word/string will remain visible for 5 seconds before backspace effect."
+msgstr "If you set it on 5000 milliseconds, the word/string will remain visible for 5 seconds before backspace effect."
+
+#: widgets/premium-fancytext.php:205
+msgid "Back Delay"
+msgstr "Back Delay"
+
+#: widgets/premium-fancytext.php:195
+msgid "If you set it on 5000 milliseconds, the first word/string will appear after 5 seconds."
+msgstr "If you set it on 5000 milliseconds, the first word/string will appear after 5 seconds."
+
+#: widgets/premium-fancytext.php:192
+msgid "Start Delay"
+msgstr "Start Delay"
+
+#: widgets/premium-fancytext.php:182
+msgid "Set a speed for backspace effect in milliseconds."
+msgstr "Set a speed for backspace effect in milliseconds."
+
+#: widgets/premium-fancytext.php:179
+msgid "Back Speed"
+msgstr "Back Speed"
+
+#: widgets/premium-fancytext.php:169
+msgid "Set typing effect speed in milliseconds."
+msgstr "Set typing effect speed in milliseconds."
+
+#: widgets/premium-fancytext.php:166
+msgid "Type Speed"
+msgstr "Type Speed"
+
+#: widgets/premium-fancytext.php:155
+msgid "Typing"
+msgstr "Typing"
+
+#: widgets/premium-fancytext.php:106
+msgid "Suffix"
+msgstr "Suffix"
+
+#: widgets/premium-fancytext.php:62
+msgid "Prefix"
+msgstr "Prefix"
+
+#: widgets/premium-videobox.php:452 widgets/premium-videobox.php:663
+#: widgets/premium-modalbox.php:675 widgets/premium-modalbox.php:748
+#: widgets/premium-pricing-table.php:1467
+#: widgets/premium-pricing-table.php:1545
+#: widgets/premium-pricing-table.php:1758
+#: widgets/premium-pricing-table.php:1836 widgets/premium-vscroll.php:579
+#: widgets/premium-vscroll.php:662 widgets/premium-vscroll.php:721
+#: widgets/premium-banner.php:614 widgets/premium-banner.php:668
+#: widgets/premium-banner.php:767 widgets/premium-maps.php:585
+#: widgets/premium-title.php:443 widgets/premium-dual-header.php:366
+#: widgets/premium-dual-header.php:563 widgets/premium-grid.php:1083
+#: widgets/premium-grid.php:1232 widgets/premium-grid.php:1374
+#: widgets/premium-grid.php:1458
+msgid "Shadow"
+msgstr "Shadow"
+
+#: widgets/premium-countdown.php:487
+msgid "Units"
+msgstr "Units"
+
+#: widgets/premium-countdown.php:192
+msgid "Redirection Link"
+msgstr "Redirection Link"
+
+#: widgets/premium-countdown.php:191
+msgid "Message"
+msgstr "Message"
+
+#: widgets/premium-countdown.php:186
+msgid "Expire Type"
+msgstr "Expire Type"
+
+#: widgets/premium-countdown.php:179
+msgid "Expire"
+msgstr "Expire"
+
+#: widgets/premium-countdown.php:105
+msgid "Time Units"
+msgstr "Time Units"
+
+#: widgets/premium-countdown.php:91
+msgid "Time Zone"
+msgstr "Time Zone"
+
+#: widgets/premium-countdown.php:78
+msgid "Due Date"
+msgstr "Due Date"
+
+#: widgets/premium-dual-header.php:106 widgets/premium-countdown.php:68
+msgid "Inline"
+msgstr "Inline"
+
+#: admin/settings/modules-setting.php:215 widgets/premium-countdown.php:24
+#: widgets/premium-countdown.php:58
+msgid "Countdown"
+msgstr "Countdown"
+
+#: widgets/premium-carousel.php:383
+msgid "Slides' Spacing"
+msgstr "Slides' Spacing"
+
+#: widgets/premium-fancytext.php:145 widgets/premium-carousel.php:324
+msgid "Additional Settings"
+msgstr "Additional Settings"
+
+#: widgets/premium-blog.php:1376 widgets/premium-blog.php:1526
+#: widgets/premium-carousel.php:768
+msgid "Active Color"
+msgstr "Active Colour"
+
+#: widgets/premium-vscroll.php:497 widgets/premium-blog.php:356
+#: widgets/premium-carousel.php:130
+msgid "Dots"
+msgstr "Dots"
+
+#: widgets/premium-carousel.php:580
+msgid "Position (PX)"
+msgstr "Position (PX)"
+
+#: widgets/premium-modalbox.php:247
+msgid "Display Style"
+msgstr "Display Style"
+
+#: widgets/premium-maps.php:370
+msgid "Map Style"
+msgstr "Map Style"
+
+#: widgets/premium-maps.php:334
+msgid "Info Container Always Opened"
+msgstr "Info Container Always Opened"
+
+#: widgets/premium-maps.php:327
+msgid "Scroll Wheel Zoom"
+msgstr "Scroll Wheel Zoom"
+
+#: widgets/premium-maps.php:320
+msgid "Fullscreen Control"
+msgstr "Fullscreen Control"
+
+#: widgets/premium-maps.php:313
+msgid "Street View Control"
+msgstr "Street View Control"
+
+#: widgets/premium-maps.php:306
+msgid "Zoom Controls"
+msgstr "Zoom Controls"
+
+#: widgets/premium-maps.php:299
+msgid "Map Type Controls"
+msgstr "Map Type Controls"
+
+#: widgets/premium-maps.php:283
+msgid "Zoom"
+msgstr "Zoom"
+
+#: widgets/premium-maps.php:244 widgets/premium-grid.php:513
+msgid "Controls"
+msgstr "Controls"
+
+#: widgets/premium-maps.php:220
+msgid "Custom Icon"
+msgstr "Custom Icon"
+
+#: widgets/premium-maps.php:146
+msgid "Markers"
+msgstr "Markers"
+
+#: widgets/premium-fancytext.php:297
+msgid "If you enabled this option, the slide will be paused when mouseover."
+msgstr "If you enabled this option, the slide will be paused when mouseover."
+
+#: widgets/premium-fancytext.php:282
+msgid "Show Items"
+msgstr "Show Items"
+
+#: widgets/premium-fancytext.php:272
+msgid "How long should the word/string stay visible? Set a value in milliseconds."
+msgstr "How long should the word/string stay visible? Set a value in milliseconds."
+
+#: widgets/premium-carousel.php:528
+msgid "Left Icon"
+msgstr "Left Icon"
+
+#: widgets/premium-carousel.php:498
+msgid "Top Icon"
+msgstr "Top Icon"
+
+#: widgets/premium-carousel.php:438
+msgid "Right Icon"
+msgstr "Right Icon"
+
+#: widgets/premium-carousel.php:189
+msgid "Arrows"
+msgstr "Arrows"
+
+#: widgets/premium-carousel.php:316
+msgid "Add extra class name that will be applied to the carousel, and you can use this class for your customizations."
+msgstr "Add extra class name that will be applied to the carousel, and you can use this class for your customizations."
+
+#: widgets/premium-dual-header.php:103
+msgid "Display"
+msgstr "Display"
+
+#: widgets/premium-dual-header.php:72 widgets/premium-dual-header.php:403
+msgid "Second Heading"
+msgstr "Second Heading"
+
+#: widgets/premium-dual-header.php:61 widgets/premium-dual-header.php:206
+msgid "First Heading"
+msgstr "First Heading"
+
+#: admin/settings/modules-setting.php:232 widgets/premium-dual-header.php:30
+#: widgets/premium-dual-header.php:54
+msgid "Dual Heading"
+msgstr "Dual Heading"
+
+#: widgets/premium-counter.php:459 widgets/premium-fancytext.php:444
+msgid "Prefix & Suffix"
+msgstr "Prefix & Suffix"
+
+#: widgets/premium-counter.php:331
+msgid "Vertical Alignment"
+msgstr "Vertical Alignment"
+
+#: widgets/premium-modalbox.php:91 widgets/premium-modalbox.php:132
+#: widgets/premium-counter.php:145
+msgid "Custom Image"
+msgstr "Custom Image"
+
+#: widgets/premium-modalbox.php:90 widgets/premium-modalbox.php:103
+#: widgets/premium-counter.php:144
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: widgets/premium-counter.php:123
+msgid "Rolling Time"
+msgstr "Rolling Time"
+
+#: widgets/premium-counter.php:114
+msgid "Value suffix"
+msgstr "Value suffix"
+
+#: widgets/premium-counter.php:105
+msgid "Value Prefix"
+msgstr "Value Prefix"
+
+#: admin/settings/modules-setting.php:225 widgets/premium-counter.php:26
+#: widgets/premium-counter.php:56
+msgid "Counter"
+msgstr "Counter"
+
+#: widgets/premium-countdown.php:530
+msgid "Spacing in Between"
+msgstr "Spacing in Between"
+
+#: widgets/premium-title.php:345 widgets/premium-title.php:376
+msgid "Line Color"
+msgstr "Line Colour"
+
+#: widgets/premium-person.php:145 widgets/premium-banner.php:184
+#: widgets/premium-blog.php:69 widgets/premium-image-button.php:113
+#: widgets/premium-grid.php:741 widgets/premium-button.php:118
+msgid "Hover Effect"
+msgstr "Hover Effect"
+
+#: widgets/premium-banner.php:475
+msgid "Image Opacity"
+msgstr "Image Opacity"
+
+#: widgets/premium-banner.php:444 widgets/premium-grid.php:952
+msgid "Maximum Size"
+msgstr "Maximum Size"
+
+#: widgets/premium-banner.php:432 widgets/premium-grid.php:941
+msgid "Minimum Size"
+msgstr "Minimum Size"
+
+#: widgets/premium-banner.php:426
+msgid "If the description text is not suiting well on specific screen sizes, you may enable this option which will hide the description text."
+msgstr "If the description text is not suiting well on specific screen sizes, you may enable this option which will hide the description text."
+
+#: widgets/premium-banner.php:418 widgets/premium-grid.php:929
+msgid "Responsive"
+msgstr "Responsive"
+
+#: widgets/premium-pricing-table.php:102 widgets/premium-person.php:187
+#: widgets/premium-person.php:216 widgets/premium-testimonials.php:98
+#: widgets/premium-testimonials.php:139 widgets/premium-banner.php:278
+#: widgets/premium-title.php:108 widgets/premium-dual-header.php:83
+msgid "HTML Tag"
+msgstr "HTML Tag"
+
+#: widgets/premium-banner.php:252
+msgid "Add extra class name that will be applied to the banner, and you can use this class for your customizations."
+msgstr "Add extra class name that will be applied to the banner, and you can use this class for your customizations."
+
+#: widgets/premium-banner.php:148
+msgid "Nofollow Option"
+msgstr "Nofollow Option"
+
+#: widgets/premium-banner.php:137
+msgid "New Tab"
+msgstr "New Tab"
+
+#: widgets/premium-banner.php:87
+msgid "Custom Link"
+msgstr "Custom Link"
+
+#: widgets/premium-image-scroll.php:132 widgets/premium-image-scroll.php:158
+#: widgets/premium-pricing-table.php:337 widgets/premium-pricing-table.php:367
+#: widgets/premium-banner.php:112 widgets/premium-banner.php:343
+#: widgets/premium-banner.php:374 widgets/premium-dual-header.php:131
+#: widgets/premium-dual-header.php:161 widgets/premium-image-button.php:73
+#: widgets/premium-image-button.php:99 widgets/premium-grid.php:565
+#: widgets/premium-grid.php:589 widgets/premium-image-separator.php:147
+#: widgets/premium-image-separator.php:159 widgets/premium-button.php:78
+#: widgets/premium-button.php:104
+msgid "Existing Page"
+msgstr "Existing Page"
+
+#: widgets/premium-carousel.php:238
+msgid "Slides' Settings"
+msgstr "Slides' Settings"
+
+#: widgets/premium-carousel.php:228
+msgid "Mobile Slides"
+msgstr "Mobile Slides"
+
+#: widgets/premium-carousel.php:220
+msgid "Tabs Slides"
+msgstr "Tabs Slides"
+
+#: widgets/premium-carousel.php:212
+msgid "Desktop Slides"
+msgstr "Desktop Slides"
+
+#: widgets/premium-carousel.php:199
+msgid "Appearance"
+msgstr "Appearance"
+
+#: widgets/premium-progressbar.php:203 widgets/premium-carousel.php:117
+#: widgets/premium-grid.php:443
+msgid "Type"
+msgstr "Type"
+
+#: admin/settings/modules-setting.php:198 widgets/premium-blog.php:609
+#: widgets/premium-carousel.php:28 widgets/premium-carousel.php:62
+msgid "Carousel"
+msgstr "Carousel"
+
+#: widgets/premium-image-button.php:368 widgets/premium-button.php:464
+msgid "onclick Event"
+msgstr "onclick Event"
+
+#: widgets/premium-pricing-table.php:333 widgets/premium-banner.php:339
+#: widgets/premium-dual-header.php:127 widgets/premium-image-button.php:69
+#: widgets/premium-grid.php:561 widgets/premium-button.php:74
+msgid "Link Type"
+msgstr "Link Type"
+
+#: widgets/premium-progressbar.php:541
+msgid "Indicator"
+msgstr "Indicator"
+
+#: widgets/premium-progressbar.php:485
+msgid "Percentage Typography"
+msgstr "Percentage Typography"
+
+#: widgets/premium-progressbar.php:459
+msgid "Labels' Typography"
+msgstr "Labels' Typography"
+
+#: widgets/premium-progressbar.php:166
+msgid "Labels Alignment"
+msgstr "Labels Alignment"
+
+#: widgets/premium-progressbar.php:156 widgets/premium-progressbar.php:497
+msgid "Arrow"
+msgstr "Arrow"
+
+#: widgets/premium-progressbar.php:155
+msgid "Pin"
+msgstr "Pin"
+
+#: widgets/premium-progressbar.php:150
+msgid "Labels Indicator"
+msgstr "Labels Indicator"
+
+#: widgets/premium-progressbar.php:141
+msgid "Enable percentage for labels"
+msgstr "Enable percentage for labels"
+
+#: widgets/premium-progressbar.php:138
+msgid "Enable Percentage"
+msgstr "Enable Percentage"
+
+#: widgets/premium-progressbar.php:105 widgets/premium-progressbar.php:106
+msgid "label"
+msgstr "label"
+
+#: widgets/premium-progressbar.php:101 widgets/premium-progressbar.php:121
+#: widgets/premium-progressbar.php:125
+msgid "Label"
+msgstr "Label"
+
+#: widgets/premium-progressbar.php:86 widgets/premium-progressbar.php:112
+#: widgets/premium-progressbar.php:387
+msgid "Percentage"
+msgstr "Percentage"
+
+#: widgets/premium-progressbar.php:64 widgets/premium-progressbar.php:436
+msgid "Multiple Labels"
+msgstr "Multiple Labels"
+
+#: widgets/premium-progressbar.php:63
+msgid "Left & Right Labels"
+msgstr "Left & Right Labels"
+
+#: widgets/premium-progressbar.php:59
+msgid "Number of Labels"
+msgstr "Number of Labels"
+
+#: widgets/premium-banner.php:202 widgets/premium-maps.php:264
+#: widgets/premium-progressbar.php:246 widgets/premium-progressbar.php:581
+#: widgets/premium-grid.php:415 widgets/premium-grid.php:721
+#: widgets/premium-contactform.php:136 widgets/premium-contactform.php:218
+msgid "Height"
+msgstr "Height"
+
+#: widgets/premium-progressbar.php:468
+msgid "Percentage Color"
+msgstr "Percentage Colour"
+
+#: widgets/premium-progressbar.php:445
+msgid "Labels' Color"
+msgstr "Labels' Colour"
+
+#: widgets/premium-banner.php:446 widgets/premium-grid.php:954
+msgid "Note: maximum size for extra small screens is 767px."
+msgstr "Note: maximum size for extra small screens is 767px."
+
+#: widgets/premium-banner.php:434 widgets/premium-grid.php:943
+msgid "Note: minimum size for extra small screens is 1px."
+msgstr "Note: minimum size for extra small screens is 1px."
+
+#: widgets/premium-banner.php:424 widgets/premium-grid.php:934
+msgid "Responsive Controls"
+msgstr "Responsive Controls"
+
+#: widgets/premium-pricing-table.php:1402
+msgid "Hover Text Color"
+msgstr "Hover Text Colour"
+
+#. Author of the plugin
+msgid "Leap13"
+msgstr "Leap13"
+
+#. Plugin URI of the plugin
+msgid "https://premiumaddons.com"
+msgstr "https://premiumaddons.com"
+
+#: widgets/premium-videobox.php:574
+msgid "Hover Padding"
+msgstr "Hover Padding"
+
+#: widgets/premium-videobox.php:565
+msgid "Hover Animation"
+msgstr "Hover Animation"
+
+#: widgets/premium-videobox.php:367 widgets/premium-videobox.php:590
+msgid "Video Text"
+msgstr "Video Text"
+
+#: widgets/premium-videobox.php:325 widgets/premium-videobox.php:405
+msgid "Horizontal Position (%)"
+msgstr "Horizontal Position (%)"
+
+#: widgets/premium-videobox.php:342 widgets/premium-videobox.php:388
+msgid "Vertical Position (%)"
+msgstr "Vertical Position (%)"
+
+#: widgets/premium-videobox.php:311 widgets/premium-videobox.php:317
+#: widgets/premium-videobox.php:462
+msgid "Play Icon"
+msgstr "Play Icon"
+
+#: widgets/premium-videobox.php:96
+msgid "Enter the numbers and letters after the equal sign which located in your YouTube video link or after the slash sign in your Vimeo video link. For example, z1hQgVpfTKU"
+msgstr "Enter the numbers and letters after the equal sign which located in your YouTube video link or after the slash sign in your Vimeo video link. For example, z1hQgVpfTKU"
+
+#: widgets/premium-videobox.php:95
+msgid "Video ID"
+msgstr "Video ID"
+
+#: widgets/premium-videobox.php:85 widgets/premium-videobox.php:108
+msgid "Embed URL"
+msgstr "Embed URL"
+
+#: widgets/premium-videobox.php:84 widgets/premium-blog.php:570
+msgid "ID"
+msgstr "ID"
+
+#: widgets/premium-videobox.php:72 widgets/premium-grid.php:447
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: widgets/premium-videobox.php:71 widgets/premium-person.php:343
+msgid "Youtube"
+msgstr "Youtube"
+
+#: widgets/premium-videobox.php:67
+msgid "Video Type"
+msgstr "Video Type"
+
+#: widgets/premium-videobox.php:297
+msgid "Choose an image for the video box"
+msgstr "Choose an image for the video box"
+
+#: admin/settings/modules-setting.php:359 widgets/premium-videobox.php:28
+#: widgets/premium-videobox.php:61 widgets/premium-videobox.php:424
+msgid "Video Box"
+msgstr "Video Box"
+
+#: widgets/premium-title.php:455
+msgid "Icon Style"
+msgstr "Icon Style"
+
+#: widgets/premium-title.php:92
+msgid "Font Awesome Icon"
+msgstr "Font Awesome Icon"
+
+#: widgets/premium-testimonials.php:218
+msgid "Donec id elit non mi porta gravida at eget metus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus."
+msgstr "Donec id elit non mi porta gravida at eget metus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus."
+
+#: widgets/premium-testimonials.php:215
+msgid "Testimonial Content"
+msgstr "Testimonial Content"
+
+#: widgets/premium-testimonials.php:192
+msgid "Self"
+msgstr "Self"
+
+#: widgets/premium-testimonials.php:191
+msgid "Parent"
+msgstr "Parent"
+
+#: widgets/premium-testimonials.php:190
+msgid "Blank"
+msgstr "Blank"
+
+#: widgets/premium-testimonials.php:188
+msgid "Select link target"
+msgstr "Select link target"
+
+#: widgets/premium-testimonials.php:175
+msgid "Add company URL"
+msgstr "Add company URL"
+
+#: widgets/premium-testimonials.php:141
+msgid "Select a heading tag for company name"
+msgstr "Select a heading tag for company name"
+
+#: widgets/premium-testimonials.php:131
+msgid "Enter company name"
+msgstr "Enter company name"
+
+#: widgets/premium-testimonials.php:130
+msgid "Company Name"
+msgstr "Company Name"
+
+#: widgets/premium-testimonials.php:100
+msgid "Select a heading tag for author name"
+msgstr "Select a heading tag for author name"
+
+#: widgets/premium-testimonials.php:90
+msgid "Enter author name"
+msgstr "Enter author name"
+
+#: widgets/premium-testimonials.php:89
+msgid "Person Name"
+msgstr "Person Name"
+
+#: widgets/premium-testimonials.php:77
+msgid "Rounded"
+msgstr "Rounded"
+
+#: widgets/premium-testimonials.php:76
+msgid "Circle"
+msgstr "Circle"
+
+#: widgets/premium-testimonials.php:75
+msgid "Square"
+msgstr "Square"
+
+#: widgets/premium-testimonials.php:73
+msgid "Choose image style"
+msgstr "Choose image style"
+
+#: widgets/premium-testimonials.php:71
+msgid "Image Style"
+msgstr "Image Style"
+
+#: widgets/premium-testimonials.php:63
+msgid "Choose an image for the author"
+msgstr "Choose an image for the author"
+
+#: widgets/premium-progressbar.php:302
+msgid "Main Background"
+msgstr "Main Background"
+
+#: widgets/premium-progressbar.php:282
+msgid "Indicator Background"
+msgstr "Indicator Background"
+
+#: admin/settings/modules-setting.php:313 widgets/premium-progressbar.php:23
+#: widgets/premium-progressbar.php:238
+msgid "Progress Bar"
+msgstr "Progress Bar"
+
+#: widgets/premium-progressbar.php:207
+msgid "Solid"
+msgstr "Solid"
+
+#: widgets/premium-progressbar.php:89
+msgid "50%"
+msgstr "50%"
+
+#: widgets/premium-progressbar.php:75
+msgid "My Skill"
+msgstr "My Skill"
+
+#: widgets/premium-progressbar.php:54
+msgid "Progress Bar Settings"
+msgstr "Progress Bar Settings"
+
+#: widgets/premium-pricing-table.php:892
+msgid "Unset"
+msgstr "Unset"
+
+#: widgets/premium-pricing-table.php:884 widgets/premium-banner.php:229
+msgid "Vertical Align"
+msgstr "Vertical Align"
+
+#: widgets/premium-pricing-table.php:412
+msgid "Popular"
+msgstr "Popular"
+
+#: widgets/premium-pricing-table.php:402 widgets/premium-pricing-table.php:526
+#: widgets/premium-pricing-table.php:1590
+msgid "Badge"
+msgstr "Badge"
+
+#: widgets/premium-pricing-table.php:323
+msgid "Get Started"
+msgstr "Get Started"
+
+#: widgets/premium-pricing-table.php:245
+msgid "List Item #3"
+msgstr "List Item #3"
+
+#: widgets/premium-pricing-table.php:238
+msgid "List Item #2"
+msgstr "List Item #2"
+
+#: widgets/premium-pricing-table.php:231
+msgid "List Item #1"
+msgstr "List Item #1"
+
+#: widgets/premium-title.php:74 widgets/premium-grid.php:699
+msgid "Style 4"
+msgstr "Style 4"
+
+#: widgets/premium-progressbar.php:208
+msgid "Striped"
+msgstr "Striped"
+
+#: widgets/premium-pricing-table.php:177 widgets/premium-pricing-table.php:1020
+msgid "Duration"
+msgstr "Duration"
+
+#: widgets/premium-pricing-table.php:166 widgets/premium-pricing-table.php:968
+msgid "Divider"
+msgstr "Divider"
+
+#: widgets/premium-pricing-table.php:144 widgets/premium-pricing-table.php:851
+msgid "Currency"
+msgstr "Currency"
+
+#: widgets/premium-pricing-table.php:103
+msgid "Select HTML tag for the title"
+msgstr "Select HTML tag for the title"
+
+#: widgets/premium-pricing-table.php:124 widgets/premium-pricing-table.php:155
+#: widgets/premium-pricing-table.php:495 widgets/premium-pricing-table.php:797
+#: widgets/premium-pricing-table.php:923
+msgid "Price"
+msgstr "Price"
+
+#: widgets/premium-person.php:272 widgets/premium-person.php:614
+msgid "Social Icons"
+msgstr "Social Icons"
+
+#: widgets/premium-person.php:424
+msgid "Email Address"
+msgstr "Email Address"
+
+#: widgets/premium-person.php:329
+msgid "Google+"
+msgstr "Google+"
+
+#: widgets/premium-person.php:396
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: widgets/premium-person.php:315
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: widgets/premium-person.php:301
+msgid "Twitter"
+msgstr "Twitter"
+
+#: widgets/premium-person.php:287 widgets/premium-grid.php:890
+msgid "Facebook"
+msgstr "Facebook"
+
+#: widgets/premium-modalbox.php:464
+msgid "When should the popup appear during page load? The value are counted in seconds"
+msgstr "When should the popup appear during page load? The value are counted in seconds"
+
+#: widgets/premium-modalbox.php:462
+msgid "Delay in Popup Display (Sec)"
+msgstr "Delay in Popup Display (Sec)"
+
+#: widgets/premium-modalbox.php:249
+msgid "Choose where would you like the modal box appear on"
+msgstr "Choose where would you like the modal box appear on"
+
+#: widgets/premium-maps.php:555
+msgid "Map"
+msgstr "Map"
+
+#: widgets/premium-maps.php:376
+msgid "JSON Code"
+msgstr "JSON Code"
+
+#: widgets/premium-maps.php:256
+msgid "Hybrid"
+msgstr "Hybrid"
+
+#: widgets/premium-maps.php:255
+msgid "Terrain"
+msgstr "Terrain"
+
+#: widgets/premium-maps.php:254
+msgid "Satellite"
+msgstr "Satellite"
+
+#: widgets/premium-maps.php:253
+msgid "Road Map"
+msgstr "Road Map"
+
+#: widgets/premium-maps.php:250
+msgid "Map Type"
+msgstr "Map Type"
+
+#: widgets/premium-modalbox.php:1145
+msgid "Max Height"
+msgstr "Max Height"
+
+#: widgets/premium-maps.php:192
+msgid "Longitude"
+msgstr "Longitude"
+
+#: widgets/premium-maps.php:181
+msgid "Latitude"
+msgstr "Latitude"
+
+#: widgets/premium-maps.php:234
+msgid "Add an optional description to your map pin"
+msgstr "Add an optional description to your map pin"
+
+#: widgets/premium-maps.php:233
+msgid "Premium Google Maps"
+msgstr "Premium Google Maps"
+
+#: widgets/premium-image-separator.php:65
+msgid "Choose the separator image"
+msgstr "Choose the separator image"
+
+#: widgets/premium-image-scroll.php:67 widgets/premium-image-separator.php:52
+msgid "Image Settings"
+msgstr "Image Settings"
+
+#: widgets/premium-image-button.php:183
+msgid "Overlap Direction"
+msgstr "Overlap Direction"
+
+#: widgets/premium-image-button.php:154
+msgid "Bottom Right to Top Left"
+msgstr "Bottom Right to Top Left"
+
+#: widgets/premium-image-button.php:153
+msgid "Top Left to Bottom Right"
+msgstr "Top Left to Bottom Right"
+
+#: widgets/premium-image-button.php:152
+msgid "Top Right to Bottom Left"
+msgstr "Top Right to Bottom Left"
+
+#: widgets/premium-image-button.php:151
+msgid "Bottom Left to Top Right"
+msgstr "Bottom Left to Top Right"
+
+#: widgets/premium-image-button.php:121
+msgid "Overlap"
+msgstr "Overlap"
+
+#: widgets/premium-image-button.php:119
+msgid "Diagonal Slide"
+msgstr "Diagonal Slide"
+
+#: widgets/premium-image-button.php:118
+msgid "Background Slide"
+msgstr "Background Slide"
+
+#: admin/settings/modules-setting.php:242 widgets/premium-fancytext.php:23
+#: widgets/premium-fancytext.php:55 widgets/premium-fancytext.php:85
+#: widgets/premium-fancytext.php:339
+msgid "Fancy Text"
+msgstr "Fancy Text"
+
+#: widgets/premium-fancytext.php:285
+msgid "How many items should be visible at a time?"
+msgstr "How many items should be visible at a time?"
+
+#: widgets/premium-fancytext.php:269
+msgid "Pause Time (Milliseconds)"
+msgstr "Pause Time (Milliseconds)"
+
+#: widgets/premium-fancytext.php:394
+msgid "Cursor Text"
+msgstr "Cursor Text"
+
+#: widgets/premium-fancytext.php:230
+msgid "Show Cursor"
+msgstr "Show Cursor"
+
+#: widgets/premium-dual-header.php:64
+msgid "Premium"
+msgstr "Premium"
+
+#: widgets/premium-counter.php:466
+msgid "Prefix Color"
+msgstr "Prefix Colour"
+
+#: widgets/premium-counter.php:490
+msgid "Suffix Color"
+msgstr "Suffix Colour"
+
+#: widgets/premium-counter.php:426 widgets/premium-progressbar.php:193
+msgid "Value"
+msgstr "Value"
+
+#: widgets/premium-counter.php:125
+msgid "How long should it take to complete the digit?"
+msgstr "How long should it take to complete the digit?"
+
+#: widgets/premium-counter.php:117
+msgid "Enter suffix for counter value"
+msgstr "Enter suffix for counter value"
+
+#: widgets/premium-counter.php:108
+msgid "Enter prefix for counter value"
+msgstr "Enter prefix for counter value"
+
+#: widgets/premium-counter.php:97
+msgid "Digits After Decimal Point"
+msgstr "Digits After Decimal Point"
+
+#: widgets/premium-counter.php:90
+msgid "Separator converts 125000 into 125,000"
+msgstr "Separator converts 125000 into 125,000"
+
+#: widgets/premium-counter.php:87
+msgid "Thousands Separator"
+msgstr "Thousands Separator"
+
+#: widgets/premium-counter.php:65
+msgid "Enter title for stats counter block"
+msgstr "Enter title for stats counter block"
+
+#: widgets/premium-counter.php:183
+msgid "Choose a position for your icon"
+msgstr "Choose a position for your icon"
+
+#: widgets/premium-counter.php:309
+msgid "Background size"
+msgstr "Background size"
+
+#: widgets/premium-counter.php:284
+msgid "Design Your Own"
+msgstr "Design Your Own"
+
+#: widgets/premium-counter.php:281
+msgid "Simple"
+msgstr "Simple"
+
+#: widgets/premium-countdown.php:316
+msgid "Years (Plural)"
+msgstr "Years (Plural)"
+
+#: widgets/premium-countdown.php:305
+msgid "Year (Singular)"
+msgstr "Year (Singular)"
+
+#: widgets/premium-countdown.php:294
+msgid "Months (Plural)"
+msgstr "Months (Plural)"
+
+#: widgets/premium-countdown.php:283
+msgid "Month (Singular)"
+msgstr "Month (Singular)"
+
+#: widgets/premium-countdown.php:272
+msgid "Weeks (Plural)"
+msgstr "Weeks (Plural)"
+
+#: widgets/premium-countdown.php:262
+msgid "Week (Singular)"
+msgstr "Week (Singular)"
+
+#: widgets/premium-countdown.php:252
+msgid "Day (Plural)"
+msgstr "Day (Plural)"
+
+#: widgets/premium-countdown.php:242
+msgid "Day (Singular)"
+msgstr "Day (Singular)"
+
+#: widgets/premium-countdown.php:235
+msgid "Strings Translation"
+msgstr "Strings Translation"
+
+#: widgets/premium-countdown.php:214
+msgid "Redirect To"
+msgstr "Redirect To"
+
+#: widgets/premium-countdown.php:204
+msgid "Countdown is finished!"
+msgstr "Countdown is finished!"
+
+#: widgets/premium-modalbox.php:309 widgets/premium-image-button.php:248
+#: widgets/premium-button.php:260
+msgid "After"
+msgstr "After"
+
+#: widgets/premium-countdown.php:201
+msgid "On expiry Text"
+msgstr "On expiry Text"
+
+#: widgets/premium-videobox.php:374 widgets/premium-modalbox.php:226
+#: widgets/premium-modalbox.php:253 widgets/premium-modalbox.php:449
+#: widgets/premium-pricing-table.php:91 widgets/premium-pricing-table.php:201
+#: widgets/premium-pricing-table.php:322 widgets/premium-pricing-table.php:411
+#: widgets/premium-pricing-table.php:1128
+#: widgets/premium-pricing-table.php:1293 widgets/premium-banner.php:326
+#: widgets/premium-fancytext.php:109 widgets/premium-image-button.php:59
+#: widgets/premium-button.php:64
+msgid "Text"
+msgstr "Text"
+
+#: widgets/premium-countdown.php:189
+msgid "Choose whether if you want to set a message or a redirect link"
+msgstr "Choose whether if you want to set a message or a redirect link"
+
+#: widgets/premium-countdown.php:115
+msgid "Second"
+msgstr "Second"
+
+#: widgets/premium-contactform.php:364
+msgid "Default Typography"
+msgstr "Default Typography"
+
+#: widgets/premium-progressbar.php:332 widgets/premium-contactform.php:354
+msgid "Labels"
+msgstr "Labels"
+
+#: widgets/premium-contactform.php:315
+msgid "Focus Border Animation"
+msgstr "Focus Border Animation"
+
+#: widgets/premium-contactform.php:304
+msgid "Focus Border Color"
+msgstr "Focus Border Colour"
+
+#: widgets/premium-contactform.php:249
+msgid "Input Field Background"
+msgstr "Input Field Background"
+
+#: widgets/premium-contactform.php:242
+msgid "Form"
+msgstr "Form"
+
+#: widgets/premium-contactform.php:61
+msgid "Select Your Contact Form"
+msgstr "Select Your Contact Form"
+
+#: widgets/premium-contactform.php:53
+msgid "Contact Form"
+msgstr "Contact Form"
+
+#: widgets/premium-carousel.php:384
+msgid "Set a spacing value in pixels (px)"
+msgstr "Set a spacing value in pixels (px)"
+
+#: widgets/premium-carousel.php:376
+msgid "Center mode enables a centered view with partial next/previous slides. Animations and all visible scroll type doesn't work with this mode"
+msgstr "Centre mode enables a centred view with partial next/previous slides. Animations and all visible scroll type doesn't work with this mode"
+
+#: widgets/premium-carousel.php:375
+msgid "Center Mode"
+msgstr "Centre Mode"
+
+#: widgets/premium-carousel.php:368
+msgid "Pause the slider when mouse hover"
+msgstr "Pause the slider when mouse hover"
+
+#: widgets/premium-fancytext.php:295 widgets/premium-carousel.php:367
+msgid "Pause on Hover"
+msgstr "Pause on Hover"
+
+#: widgets/premium-carousel.php:360
+msgid "Adaptive height setting gives each slide a fixed height to avoid huge white space gaps"
+msgstr "Adaptive height setting gives each slide a fixed height to avoid huge white space gaps"
+
+#: admin/settings/maps.php:104 widgets/premium-banner.php:205
+#: widgets/premium-grid.php:885
+msgid "Default"
+msgstr "Default"
+
+#: widgets/premium-carousel.php:190
+msgid "Enable or disable navigation arrows"
+msgstr "Enable or disable navigation arrows"
+
+#: widgets/premium-blog.php:668 widgets/premium-carousel.php:428
+msgid "Navigation Arrows"
+msgstr "Navigation Arrows"
+
+#: widgets/premium-vscroll.php:138
+msgid "Navigation"
+msgstr "Navigation"
+
+#: widgets/premium-counter.php:198 widgets/premium-carousel.php:306
+msgid "Animations"
+msgstr "Animations"
+
+#: widgets/premium-blog.php:646 widgets/premium-carousel.php:294
+msgid "Autoplay Speed means at which time the next slide should come. Set a value in milliseconds (ms)"
+msgstr "Autoplay Speed means at which time the next slide should come. Set a value in milliseconds (ms)"
+
+#: widgets/premium-blog.php:645 widgets/premium-carousel.php:293
+msgid "Autoplay Speed"
+msgstr "Autoplay Speed"
+
+#: widgets/premium-carousel.php:285
+msgid "Slide will start automatically"
+msgstr "Slide will start automatically"
+
+#: widgets/premium-carousel.php:284
+msgid "Autoplay Slides‏"
+msgstr "Autoplay Slides‏"
+
+#: widgets/premium-carousel.php:276
+msgid "Set a navigation speed value. The value will be counted in milliseconds (ms)"
+msgstr "Set a navigation speed value. The value will be counted in milliseconds (ms)"
+
+#: widgets/premium-carousel.php:275
+msgid "Transition Speed"
+msgstr "Transition Speed"
+
+#: widgets/premium-carousel.php:246
+msgid "Restart the slider automatically as it passes the last slide"
+msgstr "Restart the slider automatically as it passes the last slide"
+
+#: widgets/premium-carousel.php:244
+msgid "Infinite Loop"
+msgstr "Infinite Loop"
+
+#: widgets/premium-carousel.php:205
+msgid "One at a time"
+msgstr "One at a time"
+
+#: widgets/premium-carousel.php:204
+msgid "All visible"
+msgstr "All visible"
+
+#: widgets/premium-modalbox.php:422 widgets/premium-dual-header.php:107
+#: widgets/premium-image-button.php:334 widgets/premium-countdown.php:69
+#: widgets/premium-button.php:430
+msgid "Block"
+msgstr "Block"
+
+#: widgets/premium-modalbox.php:421 widgets/premium-image-button.php:333
+#: widgets/premium-button.php:429
+msgid "Large"
+msgstr "Large"
+
+#: widgets/premium-modalbox.php:420 widgets/premium-image-button.php:332
+#: widgets/premium-button.php:428
+msgid "Medium"
+msgstr "Medium"
+
+#: widgets/premium-modalbox.php:419 widgets/premium-image-button.php:331
+#: widgets/premium-button.php:427
+msgid "Small"
+msgstr "Small"
+
+#: widgets/premium-modalbox.php:416
+msgid "Button Size"
+msgstr "Button Size"
+
+#: widgets/premium-modalbox.php:337 widgets/premium-modalbox.php:356
+#: widgets/premium-modalbox.php:377 widgets/premium-modalbox.php:396
+#: widgets/premium-image-button.php:289 widgets/premium-image-button.php:308
+#: widgets/premium-button.php:302 widgets/premium-button.php:321
+#: widgets/premium-button.php:342 widgets/premium-button.php:361
+#: widgets/premium-button.php:381 widgets/premium-button.php:402
+msgid "Icon Spacing"
+msgstr "Icon Spacing"
+
+#: widgets/premium-modalbox.php:116 widgets/premium-modalbox.php:321
+#: widgets/premium-image-scroll.php:247 widgets/premium-title.php:481
+#: widgets/premium-image-button.php:260 widgets/premium-image-button.php:275
+#: widgets/premium-button.php:272 widgets/premium-button.php:287
+msgid "Icon Size"
+msgstr "Icon Size"
+
+#: widgets/premium-modalbox.php:308 widgets/premium-image-button.php:247
+#: widgets/premium-button.php:259
+msgid "Before"
+msgstr "Before"
+
+#: widgets/premium-modalbox.php:304 widgets/premium-counter.php:181
+#: widgets/premium-image-button.php:243 widgets/premium-button.php:255
+msgid "Icon Position"
+msgstr "Icon Position"
+
+#: widgets/premium-modalbox.php:85 widgets/premium-modalbox.php:276
+#: widgets/premium-modalbox.php:287 widgets/premium-image-scroll.php:240
+#: widgets/premium-pricing-table.php:57 widgets/premium-pricing-table.php:211
+#: widgets/premium-pricing-table.php:480 widgets/premium-pricing-table.php:538
+#: widgets/premium-pricing-table.php:1158 widgets/premium-counter.php:209
+#: widgets/premium-title.php:85 widgets/premium-image-button.php:199
+#: widgets/premium-image-button.php:210 widgets/premium-image-button.php:227
+#: widgets/premium-carousel.php:725 widgets/premium-button.php:211
+#: widgets/premium-button.php:222 widgets/premium-button.php:239
+msgid "Icon"
+msgstr "Icon"
+
+#: widgets/premium-modalbox.php:281 widgets/premium-image-button.php:204
+#: widgets/premium-button.php:216
+msgid "Enable or disable button icon"
+msgstr "Enable or disable button icon"
+
+#: widgets/premium-carousel.php:468
+msgid "Bottom Icon"
+msgstr "Bottom Icon"
+
+#: widgets/premium-button.php:200
+msgid "Rectangle Out"
+msgstr "Rectangle Out"
+
+#: widgets/premium-button.php:199
+msgid "Rectangle In"
+msgstr "Rectangle In"
+
+#: widgets/premium-image-button.php:135 widgets/premium-image-button.php:172
+#: widgets/premium-button.php:141
+msgid "Right to Left"
+msgstr "Right to Left"
+
+#: widgets/premium-image-button.php:134 widgets/premium-image-button.php:169
+#: widgets/premium-button.php:140
+msgid "Bottom to Top"
+msgstr "Bottom to Top"
+
+#: widgets/premium-image-button.php:133 widgets/premium-image-button.php:170
+#: widgets/premium-button.php:139
+msgid "Top to Bottom"
+msgstr "Top to Bottom"
+
+#: widgets/premium-image-button.php:129 widgets/premium-image-button.php:147
+#: widgets/premium-image-button.php:165 widgets/premium-button.php:135
+#: widgets/premium-button.php:175
+msgid "Slide Direction"
+msgstr "Slide Direction"
+
+#: widgets/premium-button.php:127
+msgid "In & Out"
+msgstr "In & Out"
+
+#: widgets/premium-image-button.php:120 widgets/premium-button.php:126
+msgid "Icon Slide"
+msgstr "Icon Slide"
+
+#: widgets/premium-button.php:125
+msgid "Icon Fade"
+msgstr "Icon Fade"
+
+#: widgets/premium-button.php:124
+msgid "Shutter"
+msgstr "Shutter"
+
+#: widgets/premium-button.php:123
+msgid "Slide"
+msgstr "Slide"
+
+#: widgets/premium-videobox.php:140 widgets/premium-image-scroll.php:131
+#: widgets/premium-image-scroll.php:144 widgets/premium-pricing-table.php:336
+#: widgets/premium-banner.php:342 widgets/premium-dual-header.php:130
+#: widgets/premium-image-button.php:72 widgets/premium-grid.php:564
+#: widgets/premium-image-separator.php:146
+#: widgets/premium-image-separator.php:173 widgets/premium-button.php:77
+msgid "URL"
+msgstr "URL"
+
+#: widgets/premium-image-button.php:62 widgets/premium-button.php:67
+msgid "Click Me"
+msgstr "Click Me"
+
+#: widgets/premium-modalbox.php:263 widgets/premium-grid.php:185
+msgid "Button Text"
+msgstr "Button Text"
+
+#: widgets/premium-modalbox.php:699 widgets/premium-modalbox.php:889
+#: widgets/premium-modalbox.php:1052 widgets/premium-image-scroll.php:216
+#: widgets/premium-image-scroll.php:350 widgets/premium-image-scroll.php:431
+#: widgets/premium-pricing-table.php:1506
+#: widgets/premium-pricing-table.php:1797 widgets/premium-blog.php:1245
+#: widgets/premium-image-button.php:526 widgets/premium-carousel.php:657
+#: widgets/premium-grid.php:1404 widgets/premium-grid.php:1563
+#: widgets/premium-grid.php:1819 widgets/premium-contactform.php:533
+#: widgets/premium-button.php:625
+msgid "Hover"
+msgstr "Hover"
+
+#: widgets/premium-modalbox.php:598 widgets/premium-modalbox.php:841
+#: widgets/premium-modalbox.php:996 widgets/premium-image-scroll.php:317
+#: widgets/premium-image-scroll.php:396 widgets/premium-pricing-table.php:1428
+#: widgets/premium-pricing-table.php:1719 widgets/premium-vscroll.php:309
+#: widgets/premium-vscroll.php:613 widgets/premium-dual-header.php:236
+#: widgets/premium-dual-header.php:433 widgets/premium-blog.php:1208
+#: widgets/premium-image-button.php:407 widgets/premium-carousel.php:603
+#: widgets/premium-grid.php:1320 widgets/premium-grid.php:1512
+#: widgets/premium-grid.php:1716 widgets/premium-contactform.php:475
+#: widgets/premium-button.php:503
+msgid "Normal"
+msgstr "Normal"
+
+#: widgets/premium-blog.php:1188
+msgid "Pagination Style"
+msgstr "Pagination Style"
+
+#: widgets/premium-blog.php:414
+msgid "Display or hide post tags"
+msgstr "Display or hide post tags"
+
+#: widgets/premium-blog.php:412
+msgid "Tags Meta"
+msgstr "Tags Meta"
+
+#: widgets/premium-blog.php:404
+msgid "Display or hide comments meta"
+msgstr "Display or hide comments meta"
+
+#: widgets/premium-blog.php:403
+msgid "Comments Meta"
+msgstr "Comments Meta"
+
+#: widgets/premium-blog.php:396
+msgid "Display or hide categories meta"
+msgstr "Display or hide categories meta"
+
+#: widgets/premium-blog.php:394
+msgid "Categories Meta"
+msgstr "Categories Meta"
+
+#: widgets/premium-blog.php:386
+msgid "Date Meta"
+msgstr "Date Meta"
+
+#: widgets/premium-blog.php:378
+msgid "Author Meta"
+msgstr "Author Meta"
+
+#: widgets/premium-blog.php:342
+msgid "Excerpt Length"
+msgstr "Excerpt Length"
+
+#: widgets/premium-blog.php:325
+msgid "Excerpt is used for article summary with a link to the whole entry. The default except length is 55"
+msgstr "Excerpt is used for article summary with a link to the whole entry. The default except length is 55"
+
+#: widgets/premium-blog.php:323
+msgid "Excerpt"
+msgstr "Excerpt"
+
+#: widgets/premium-grid.php:251 widgets/premium-grid.php:311
+msgid "Categories"
+msgstr "Categories"
+
+#: widgets/premium-blog.php:421 widgets/premium-blog.php:840
+msgid "Post Format Icon"
+msgstr "Post Format Icon"
+
+#: widgets/premium-blog.php:120
+msgid "Squares"
+msgstr "Squares"
+
+#: widgets/premium-banner.php:305
+msgid "Give the description to this banner"
+msgstr "Give the description to this banner"
+
+#: widgets/premium-videobox.php:361 widgets/premium-pricing-table.php:288
+#: widgets/premium-pricing-table.php:299 widgets/premium-pricing-table.php:511
+#: widgets/premium-pricing-table.php:1283 widgets/premium-person.php:233
+#: widgets/premium-person.php:570 widgets/premium-banner.php:297
+#: widgets/premium-banner.php:304 widgets/premium-banner.php:624
+#: widgets/premium-maps.php:211 widgets/premium-maps.php:473
+#: widgets/premium-grid.php:545 widgets/premium-grid.php:1171
+msgid "Description"
+msgstr "Description"
+
+#: widgets/premium-modalbox.php:487 widgets/premium-pricing-table.php:267
+#: widgets/premium-pricing-table.php:462 widgets/premium-person.php:131
+#: widgets/premium-person.php:255 widgets/premium-vscroll.php:156
+#: widgets/premium-vscroll.php:237 widgets/premium-counter.php:187
+#: widgets/premium-banner.php:402 widgets/premium-maps.php:456
+#: widgets/premium-maps.php:538 widgets/premium-fancytext.php:130
+#: widgets/premium-fancytext.php:319 widgets/premium-title.php:137
+#: widgets/premium-title.php:234 widgets/premium-dual-header.php:189
+#: widgets/premium-blog.php:302 widgets/premium-blog.php:515
+#: widgets/premium-blog.php:756 widgets/premium-image-button.php:355
+#: widgets/premium-progressbar.php:178 widgets/premium-countdown.php:162
+#: widgets/premium-grid.php:233 widgets/premium-grid.php:362
+#: widgets/premium-grid.php:827 widgets/premium-image-separator.php:120
+#: widgets/premium-button.php:182 widgets/premium-button.php:451
+msgid "Right"
+msgstr "Right"
+
+#: widgets/premium-modalbox.php:483 widgets/premium-pricing-table.php:263
+#: widgets/premium-person.php:127 widgets/premium-person.php:251
+#: widgets/premium-banner.php:398 widgets/premium-maps.php:452
+#: widgets/premium-maps.php:534 widgets/premium-fancytext.php:126
+#: widgets/premium-fancytext.php:315 widgets/premium-title.php:133
+#: widgets/premium-title.php:230 widgets/premium-dual-header.php:185
+#: widgets/premium-blog.php:298 widgets/premium-blog.php:511
+#: widgets/premium-blog.php:752 widgets/premium-image-button.php:351
+#: widgets/premium-progressbar.php:174 widgets/premium-countdown.php:158
+#: widgets/premium-grid.php:229 widgets/premium-grid.php:358
+#: widgets/premium-grid.php:823 widgets/premium-image-separator.php:116
+#: widgets/premium-button.php:447
+msgid "Center"
+msgstr "Centre"
+
+#: widgets/premium-modalbox.php:479 widgets/premium-pricing-table.php:259
+#: widgets/premium-pricing-table.php:463 widgets/premium-person.php:123
+#: widgets/premium-person.php:247 widgets/premium-vscroll.php:155
+#: widgets/premium-vscroll.php:236 widgets/premium-counter.php:188
+#: widgets/premium-banner.php:394 widgets/premium-maps.php:448
+#: widgets/premium-maps.php:530 widgets/premium-fancytext.php:122
+#: widgets/premium-fancytext.php:311 widgets/premium-title.php:129
+#: widgets/premium-title.php:226 widgets/premium-dual-header.php:181
+#: widgets/premium-blog.php:294 widgets/premium-blog.php:507
+#: widgets/premium-blog.php:748 widgets/premium-image-button.php:347
+#: widgets/premium-progressbar.php:170 widgets/premium-countdown.php:154
+#: widgets/premium-grid.php:225 widgets/premium-grid.php:354
+#: widgets/premium-grid.php:819 widgets/premium-image-separator.php:112
+#: widgets/premium-button.php:181 widgets/premium-button.php:443
+msgid "Left"
+msgstr "Left"
+
+#: widgets/premium-modalbox.php:475 widgets/premium-pricing-table.php:255
+#: widgets/premium-person.php:119 widgets/premium-person.php:243
+#: widgets/premium-banner.php:390 widgets/premium-maps.php:444
+#: widgets/premium-maps.php:526 widgets/premium-fancytext.php:118
+#: widgets/premium-title.php:125 widgets/premium-dual-header.php:177
+#: widgets/premium-blog.php:290 widgets/premium-blog.php:503
+#: widgets/premium-blog.php:744 widgets/premium-image-button.php:343
+#: widgets/premium-countdown.php:150 widgets/premium-grid.php:350
+#: widgets/premium-button.php:439
+msgid "Alignment"
+msgstr "Alignment"
+
+#: widgets/premium-banner.php:579
+msgid "Choose a background color for the title"
+msgstr "Choose a background colour for the title"
+
+#: widgets/premium-banner.php:576
+msgid "Title Background"
+msgstr "Title Background"
+
+#: widgets/premium-banner.php:279
+msgid "Select a heading tag for the title. Headings are defined with H1 to H6 tags"
+msgstr "Select a heading tag for the title. Headings are defined with H1 to H6 tags"
+
+#: widgets/premium-blog.php:132
+msgid "Title HTML Tag"
+msgstr "Title HTML Tag"
+
+#: widgets/premium-banner.php:268
+msgid "Give a title to this banner"
+msgstr "Give a title to this banner"
+
+#: admin/settings/modules-setting.php:351 widgets/premium-modalbox.php:148
+#: widgets/premium-pricing-table.php:81 widgets/premium-pricing-table.php:487
+#: widgets/premium-pricing-table.php:710 widgets/premium-counter.php:62
+#: widgets/premium-counter.php:386 widgets/premium-banner.php:267
+#: widgets/premium-banner.php:555 widgets/premium-maps.php:202
+#: widgets/premium-maps.php:389 widgets/premium-title.php:25
+#: widgets/premium-title.php:49 widgets/premium-title.php:56
+#: widgets/premium-title.php:255 widgets/premium-blog.php:572
+#: widgets/premium-blog.php:960 widgets/premium-progressbar.php:72
+#: widgets/premium-progressbar.php:342 widgets/premium-grid.php:537
+#: widgets/premium-grid.php:1141
+msgid "Title"
+msgstr "Title"
+
+#: widgets/premium-banner.php:249 widgets/premium-carousel.php:314
+msgid "Extra Class"
+msgstr "Extra Class"
+
+#: widgets/premium-banner.php:217
+msgid "Set a minimum height value in pixels"
+msgstr "Set a minimum height value in pixels"
+
+#: widgets/premium-banner.php:215
+msgid "Min Height"
+msgstr "Min Height"
+
+#: widgets/premium-person.php:236
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla"
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla"
+
+#: widgets/premium-person.php:208
+msgid "Senior Developer"
+msgstr "Senior Developer"
+
+#: widgets/premium-person.php:205 widgets/premium-person.php:526
+msgid "Job Title"
+msgstr "Job Title"
+
+#: widgets/premium-person.php:176 widgets/premium-person.php:481
+#: widgets/premium-testimonials.php:86 widgets/premium-testimonials.php:127
+#: widgets/premium-blog.php:573
+msgid "Name"
+msgstr "Name"
+
+#: widgets/premium-image-scroll.php:95
+msgid "Image Height"
+msgstr "Image Height"
+
+#: widgets/premium-person.php:94
+msgid "Enter image width in (PX, EM, %), default is 100%"
+msgstr "Enter image width in (PX, EM, %), default is 100%"
+
+#: widgets/premium-modalbox.php:765
+msgid "Heading"
+msgstr "Heading"
+
+#: widgets/premium-modalbox.php:1182
+msgid "Footer Background Color"
+msgstr "Footer Background Colour"
+
+#: widgets/premium-modalbox.php:1172 widgets/premium-blog.php:1134
+msgid "Content Background Color"
+msgstr "Content Background Colour"
+
+#: admin/settings/modules-setting.php:295 widgets/premium-modalbox.php:37
+#: widgets/premium-modalbox.php:1123
+msgid "Modal Box"
+msgstr "Modal Box"
+
+#: widgets/premium-modalbox.php:585 widgets/premium-modalbox.php:787
+#: widgets/premium-modalbox.php:963 widgets/premium-pricing-table.php:875
+#: widgets/premium-pricing-table.php:948 widgets/premium-pricing-table.php:993
+#: widgets/premium-pricing-table.php:1045
+msgid "Typography"
+msgstr "Typography"
+
+#: widgets/premium-modalbox.php:218 widgets/premium-modalbox.php:952
+msgid "Lower Close Button"
+msgstr "Lower Close Button"
+
+#: widgets/premium-modalbox.php:207 widgets/premium-modalbox.php:815
+msgid "Upper Close Button"
+msgstr "Upper Close Button"
+
+#: widgets/premium-modalbox.php:87
+msgid "Use font awesome icon or upload a custom image"
+msgstr "Use font awesome icon or upload a custom image"
+
+#: widgets/premium-videobox.php:199 widgets/premium-fancytext.php:218
+msgid "Loop"
+msgstr "Loop"
+
+#: widgets/premium-fancytext.php:156
+msgid "Slide Up"
+msgstr "Slide Up"
+
+#: widgets/premium-banner.php:159 widgets/premium-fancytext.php:152
+msgid "Effect"
+msgstr "Effect"
+
+#: widgets/premium-fancytext.php:110
+msgid "Text after Fancy text"
+msgstr "Text after Fancy text"
+
+#: widgets/premium-fancytext.php:75
+msgid "Fancy String"
+msgstr "Fancy String"
+
+#: widgets/premium-fancytext.php:95
+msgid "Awesome"
+msgstr "Awesome"
+
+#: widgets/premium-fancytext.php:92
+msgid "Developer"
+msgstr "Developer"
+
+#: widgets/premium-fancytext.php:89
+msgid "Designer"
+msgstr "Designer"
+
+#: includes/compatibility/widgets/fancy-text.php:50
+msgid "Fancy Text: String"
+msgstr "Fancy Text: String"
+
+#: widgets/premium-fancytext.php:66
+msgid "Text before Fancy text"
+msgstr "Text before Fancy text"
+
+#: widgets/premium-fancytext.php:65
+msgid "This is"
+msgstr "This is"
+
+#: widgets/premium-dual-header.php:234 widgets/premium-dual-header.php:431
+msgid "Choose ‘Normal’ style to put a background behind the text. Choose ‘Clipped’ style so the background will be clipped on the text."
+msgstr "Choose ‘Normal’ style to put a background behind the text. Choose ‘Clipped’ style so the background will be clipped on the text."
+
+#: widgets/premium-dual-header.php:231 widgets/premium-dual-header.php:428
+msgid "Background Style"
+msgstr "Background Style"
+
+#: widgets/premium-dual-header.php:75
+msgid "Addons"
+msgstr "Addons"
+
+#: widgets/premium-countdown.php:114
+msgid "Minutes"
+msgstr "Minutes"
+
+#: widgets/premium-countdown.php:113
+msgid "Hours"
+msgstr "Hours"
+
+#: widgets/premium-countdown.php:112
+msgid "Day"
+msgstr "Day"
+
+#: widgets/premium-countdown.php:111
+msgid "Week"
+msgstr "Week"
+
+#: widgets/premium-countdown.php:110
+msgid "Month"
+msgstr "Month"
+
+#: widgets/premium-countdown.php:109
+msgid "Years"
+msgstr "Years"
+
+#: widgets/premium-countdown.php:107
+msgid "Select the time units that you want to display in countdown timer."
+msgstr "Select the time units that you want to display in countdown timer."
+
+#: widgets/premium-countdown.php:98
+msgid "This will set the current time of the option that you will choose."
+msgstr "This will set the current time of the option that you will choose."
+
+#: widgets/premium-countdown.php:95
+msgid "User Local Time"
+msgstr "User Local Time"
+
+#: widgets/premium-countdown.php:94
+msgid "WordPress Default"
+msgstr "WordPress Default"
+
+#: widgets/premium-countdown.php:84
+msgid "Date format is (yyyy/mm/dd). Time format is (hh:mm:ss). Example: 2020-01-01 09:30."
+msgstr "Date format is (yyyy/mm/dd). Time format is (hh:mm:ss). Example: 2020-01-01 09:30."
+
+#: widgets/premium-contactform.php:429
+msgid "Placeholder Color"
+msgstr "Placeholder Colour"
+
+#: widgets/premium-contactform.php:404
+msgid "Input Text Color"
+msgstr "Input Text Colour"
+
+#: widgets/premium-contactform.php:396
+msgid "Input Typography"
+msgstr "Input Typography"
+
+#: widgets/premium-contactform.php:371
+msgid "Default Font Color"
+msgstr "Default Font Colour"
+
+#: widgets/premium-image-scroll.php:195 widgets/premium-image-button.php:188
+#: widgets/premium-carousel.php:122
+msgid "Vertical"
+msgstr "Vertical"
+
+#: widgets/premium-image-scroll.php:194 widgets/premium-image-button.php:187
+#: widgets/premium-carousel.php:121
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: widgets/premium-carousel.php:118
+msgid "Set a navigation type"
+msgstr "Set a navigation type"
+
+#: widgets/premium-carousel.php:82
+msgid "Slider content is a template which you can choose from Elementor library. Each template will be a slider content"
+msgstr "Slider content is a template which you can choose from Elementor library. Each template will be a slider content"
+
+#: widgets/premium-image-button.php:496 widgets/premium-image-button.php:697
+#: widgets/premium-button.php:595 widgets/premium-button.php:752
+msgid "Button Shadow"
+msgstr "Button Shadow"
+
+#: widgets/premium-image-button.php:487 widgets/premium-image-button.php:685
+#: widgets/premium-button.php:586 widgets/premium-button.php:740
+msgid "Text Shadow"
+msgstr "Text Shadow"
+
+#: widgets/premium-title.php:550 widgets/premium-image-button.php:473
+#: widgets/premium-image-button.php:660 widgets/premium-image-button.php:673
+#: widgets/premium-button.php:573 widgets/premium-button.php:715
+#: widgets/premium-button.php:728
+msgid "Icon Shadow"
+msgstr "Icon Shadow"
+
+#: widgets/premium-modalbox.php:549 widgets/premium-image-scroll.php:289
+#: widgets/premium-title.php:466 widgets/premium-image-button.php:426
+#: widgets/premium-image-button.php:548 widgets/premium-image-button.php:565
+#: widgets/premium-button.php:522 widgets/premium-button.php:647
+#: widgets/premium-button.php:664
+msgid "Icon Color"
+msgstr "Icon Colour"
+
+#: admin/settings/modules-setting.php:191 widgets/premium-modalbox.php:251
+#: widgets/premium-pricing-table.php:311 widgets/premium-pricing-table.php:518
+#: widgets/premium-pricing-table.php:1377 widgets/premium-banner.php:315
+#: widgets/premium-banner.php:678 widgets/premium-image-button.php:53
+#: widgets/premium-image-button.php:389 widgets/premium-contactform.php:188
+#: widgets/premium-contactform.php:445 widgets/premium-button.php:40
+#: widgets/premium-button.php:58 widgets/premium-button.php:485
+msgid "Button"
+msgstr "Button"
+
+#: widgets/premium-image-button.php:376 widgets/premium-button.php:472
+msgid "Example: myFunction();"
+msgstr "Example: myFunction();"
+
+#: widgets/premium-videobox.php:547 widgets/premium-videobox.php:651
+#: widgets/premium-modalbox.php:653 widgets/premium-modalbox.php:939
+#: widgets/premium-modalbox.php:1110 widgets/premium-modalbox.php:1230
+#: widgets/premium-pricing-table.php:591 widgets/premium-pricing-table.php:688
+#: widgets/premium-pricing-table.php:775 widgets/premium-pricing-table.php:1103
+#: widgets/premium-pricing-table.php:1270
+#: widgets/premium-pricing-table.php:1362
+#: widgets/premium-pricing-table.php:1487
+#: widgets/premium-pricing-table.php:1565
+#: widgets/premium-pricing-table.php:1778
+#: widgets/premium-pricing-table.php:1856 widgets/premium-person.php:715
+#: widgets/premium-person.php:789 widgets/premium-vscroll.php:481
+#: widgets/premium-vscroll.php:762 widgets/premium-testimonials.php:560
+#: widgets/premium-banner.php:775 widgets/premium-maps.php:432
+#: widgets/premium-maps.php:514 widgets/premium-maps.php:606
+#: widgets/premium-title.php:537 widgets/premium-dual-header.php:388
+#: widgets/premium-dual-header.php:585 widgets/premium-blog.php:944
+#: widgets/premium-blog.php:1338 widgets/premium-blog.php:1453
+#: widgets/premium-blog.php:1615 widgets/premium-image-button.php:514
+#: widgets/premium-image-button.php:715 widgets/premium-grid.php:1034
+#: widgets/premium-grid.php:1122 widgets/premium-grid.php:1259
+#: widgets/premium-grid.php:1392 widgets/premium-grid.php:1476
+#: widgets/premium-grid.php:1682 widgets/premium-grid.php:1806
+#: widgets/premium-grid.php:1894 widgets/premium-contactform.php:260
+#: widgets/premium-contactform.php:462 widgets/premium-button.php:613
+#: widgets/premium-button.php:770
+msgid "Padding"
+msgstr "Padding"
+
+#: widgets/premium-modalbox.php:1219 widgets/premium-pricing-table.php:669
+#: widgets/premium-pricing-table.php:756 widgets/premium-pricing-table.php:840
+#: widgets/premium-pricing-table.php:910 widgets/premium-pricing-table.php:957
+#: widgets/premium-pricing-table.php:1002
+#: widgets/premium-pricing-table.php:1054
+#: widgets/premium-pricing-table.php:1084
+#: widgets/premium-pricing-table.php:1252
+#: widgets/premium-pricing-table.php:1343
+#: widgets/premium-pricing-table.php:1476
+#: widgets/premium-pricing-table.php:1554
+#: widgets/premium-pricing-table.php:1767
+#: widgets/premium-pricing-table.php:1845 widgets/premium-person.php:704
+#: widgets/premium-vscroll.php:467 widgets/premium-vscroll.php:751
+#: widgets/premium-testimonials.php:417 widgets/premium-maps.php:420
+#: widgets/premium-maps.php:503 widgets/premium-maps.php:594
+#: widgets/premium-title.php:430 widgets/premium-title.php:525
+#: widgets/premium-dual-header.php:375 widgets/premium-dual-header.php:572
+#: widgets/premium-blog.php:1327 widgets/premium-blog.php:1604
+#: widgets/premium-image-button.php:504 widgets/premium-image-button.php:705
+#: widgets/premium-progressbar.php:318 widgets/premium-progressbar.php:376
+#: widgets/premium-progressbar.php:421 widgets/premium-countdown.php:597
+#: widgets/premium-grid.php:1023 widgets/premium-grid.php:1111
+#: widgets/premium-grid.php:1248 widgets/premium-grid.php:1382
+#: widgets/premium-grid.php:1466 widgets/premium-grid.php:1671
+#: widgets/premium-grid.php:1795 widgets/premium-grid.php:1883
+#: widgets/premium-contactform.php:292 widgets/premium-button.php:603
+#: widgets/premium-button.php:760
+msgid "Margin"
+msgstr "Margin"
+
+#: widgets/premium-videobox.php:440 widgets/premium-videobox.php:532
+#: widgets/premium-modalbox.php:635 widgets/premium-modalbox.php:733
+#: widgets/premium-modalbox.php:875 widgets/premium-modalbox.php:923
+#: widgets/premium-modalbox.php:1038 widgets/premium-modalbox.php:1094
+#: widgets/premium-modalbox.php:1200 widgets/premium-image-scroll.php:410
+#: widgets/premium-image-scroll.php:445 widgets/premium-pricing-table.php:614
+#: widgets/premium-pricing-table.php:657 widgets/premium-pricing-table.php:1240
+#: widgets/premium-pricing-table.php:1454
+#: widgets/premium-pricing-table.php:1532
+#: widgets/premium-pricing-table.php:1745
+#: widgets/premium-pricing-table.php:1823 widgets/premium-person.php:693
+#: widgets/premium-vscroll.php:442 widgets/premium-vscroll.php:567
+#: widgets/premium-vscroll.php:740 widgets/premium-counter.php:365
+#: widgets/premium-testimonials.php:541 widgets/premium-banner.php:542
+#: widgets/premium-banner.php:755 widgets/premium-banner.php:803
+#: widgets/premium-maps.php:572 widgets/premium-title.php:513
+#: widgets/premium-dual-header.php:353 widgets/premium-dual-header.php:550
+#: widgets/premium-blog.php:933 widgets/premium-blog.php:1316
+#: widgets/premium-blog.php:1442 widgets/premium-blog.php:1585
+#: widgets/premium-image-button.php:461 widgets/premium-image-button.php:648
+#: widgets/premium-progressbar.php:261 widgets/premium-countdown.php:474
+#: widgets/premium-carousel.php:644 widgets/premium-carousel.php:698
+#: widgets/premium-carousel.php:814 widgets/premium-grid.php:1004
+#: widgets/premium-grid.php:1071 widgets/premium-grid.php:1220
+#: widgets/premium-grid.php:1362 widgets/premium-grid.php:1446
+#: widgets/premium-grid.php:1550 widgets/premium-grid.php:1597
+#: widgets/premium-grid.php:1648 widgets/premium-grid.php:1776
+#: widgets/premium-grid.php:1864 widgets/premium-contactform.php:280
+#: widgets/premium-contactform.php:516 widgets/premium-button.php:561
+#: widgets/premium-button.php:703
+msgid "Border Radius"
+msgstr "Border Radius"
+
+#: widgets/premium-grid.php:221
+msgid "Button Alignment"
+msgstr "Button Alignment"
+
+#: widgets/premium-person.php:672 widgets/premium-banner.php:737
+#: widgets/premium-blog.php:911
+msgid "Hover Background Color"
+msgstr "Hover Background Colour"
+
+#: widgets/premium-blog.php:852
+msgid "Choose icon size in (PX, EM)"
+msgstr "Choose icon size in (PX, EM)"
+
+#: widgets/premium-videobox.php:500 widgets/premium-modalbox.php:826
+#: widgets/premium-pricing-table.php:421 widgets/premium-pricing-table.php:440
+#: widgets/premium-pricing-table.php:563 widgets/premium-pricing-table.php:1180
+#: widgets/premium-counter.php:233 widgets/premium-counter.php:255
+#: widgets/premium-testimonials.php:237 widgets/premium-testimonials.php:459
+#: widgets/premium-blog.php:850 widgets/premium-blog.php:1417
+#: widgets/premium-image-button.php:327 widgets/premium-progressbar.php:527
+#: widgets/premium-progressbar.php:568 widgets/premium-countdown.php:566
+#: widgets/premium-carousel.php:558 widgets/premium-grid.php:1299
+#: widgets/premium-button.php:423
+msgid "Size"
+msgstr "Size"
+
+#: widgets/premium-blog.php:1050
+msgid "Tags"
+msgstr "Tags"
+
+#: widgets/premium-modalbox.php:68 widgets/premium-modalbox.php:162
+#: widgets/premium-modalbox.php:182 widgets/premium-person.php:730
+#: widgets/premium-vscroll.php:64 widgets/premium-testimonials.php:208
+#: widgets/premium-testimonials.php:383 widgets/premium-banner.php:261
+#: widgets/premium-carousel.php:96
+msgid "Content"
+msgstr "Content"
+
+#: widgets/premium-blog.php:1005
+msgid "Meta"
+msgstr "Meta"
+
+#: widgets/premium-videobox.php:486 widgets/premium-videobox.php:614
+#: widgets/premium-modalbox.php:532 widgets/premium-person.php:640
+#: widgets/premium-banner.php:703 widgets/premium-blog.php:883
+#: widgets/premium-blog.php:989 widgets/premium-blog.php:1034
+#: widgets/premium-blog.php:1079 widgets/premium-blog.php:1483
+msgid "Hover Color"
+msgstr "Hover Colour"
+
+#: widgets/premium-blog.php:812 widgets/premium-contactform.php:560
+msgid "Border Color"
+msgstr "Border Colour"
+
+#: widgets/premium-image-scroll.php:302 widgets/premium-blog.php:798
+#: widgets/premium-image-button.php:581 widgets/premium-image-button.php:598
+#: widgets/premium-image-button.php:623
+msgid "Overlay Color"
+msgstr "Overlay Colour"
+
+#: widgets/premium-blog.php:461
+msgid "The index of post to start with"
+msgstr "The index of post to start with"
+
+#: widgets/premium-blog.php:460
+msgid "Offset Count"
+msgstr "Offset Count"
+
+#: widgets/premium-blog.php:439
+msgid "Choose how many posts do you want to be displayed per page"
+msgstr "Choose how many posts do you want to be displayed per page"
+
+#: widgets/premium-blog.php:438
+msgid "Posts Per Page"
+msgstr "Posts Per Page"
+
+#: widgets/premium-blog.php:716
+msgid "Pagination is the process of dividing the posts into discrete pages"
+msgstr "Pagination is the process of dividing the posts into discrete pages"
+
+#: widgets/premium-blog.php:708
+msgid "Pagination"
+msgstr "Pagination"
+
+#: widgets/premium-banner.php:209
+msgid "Choose if you want to set a custom height for the banner or keep it as it is"
+msgstr "Choose if you want to set a custom height for the banner or keep it as it is"
+
+#: widgets/premium-banner.php:162
+msgid "Choose a hover effect for the banner"
+msgstr "Choose a hover effect for the banner"
+
+#: widgets/premium-banner.php:150
+msgid "if you choose yes, the link will not be counted in search engines"
+msgstr "if you choose yes, the link will not be counted in search engines"
+
+#: widgets/premium-banner.php:139
+msgid "Choose if you want the link be opened in a new tab or not"
+msgstr "Choose if you want the link be opened in a new tab or not"
+
+#: widgets/premium-banner.php:101
+msgid "What custom link you want to set to banner?"
+msgstr "What custom link you want to set to banner?"
+
+#: widgets/premium-banner.php:98
+msgid "Set custom Link"
+msgstr "Set custom Link"
+
+#: widgets/premium-banner.php:89
+msgid "Add a custom link to the banner"
+msgstr "Add a custom link to the banner"
+
+#: widgets/premium-videobox.php:637 widgets/premium-modalbox.php:607
+#: widgets/premium-modalbox.php:708 widgets/premium-modalbox.php:795
+#: widgets/premium-modalbox.php:857 widgets/premium-modalbox.php:905
+#: widgets/premium-modalbox.php:1016 widgets/premium-modalbox.php:1072
+#: widgets/premium-pricing-table.php:577 widgets/premium-pricing-table.php:1673
+#: widgets/premium-pricing-table.php:1690 widgets/premium-person.php:654
+#: widgets/premium-vscroll.php:553 widgets/premium-vscroll.php:647
+#: widgets/premium-vscroll.php:706 widgets/premium-counter.php:292
+#: widgets/premium-banner.php:465 widgets/premium-banner.php:727
+#: widgets/premium-fancytext.php:372 widgets/premium-fancytext.php:430
+#: widgets/premium-fancytext.php:477 widgets/premium-title.php:303
+#: widgets/premium-title.php:325 widgets/premium-blog.php:897
+#: widgets/premium-blog.php:1124 widgets/premium-blog.php:1229
+#: widgets/premium-blog.php:1266 widgets/premium-blog.php:1428
+#: widgets/premium-blog.php:1549 widgets/premium-countdown.php:425
+#: widgets/premium-countdown.php:519 widgets/premium-carousel.php:626
+#: widgets/premium-carousel.php:680 widgets/premium-grid.php:1340
+#: widgets/premium-grid.php:1424 widgets/premium-grid.php:1532
+#: widgets/premium-grid.php:1579 widgets/premium-grid.php:1630
+#: widgets/premium-contactform.php:493 widgets/premium-contactform.php:549
+#: widgets/premium-button.php:539 widgets/premium-button.php:680
+msgid "Background Color"
+msgstr "Background Colour"
+
+#: widgets/premium-banner.php:68
+msgid "Select an image for the Banner"
+msgstr "Select an image for the Banner"
+
+#: admin/includes/reports.php:45
+msgid "System setup information useful for debugging purposes."
+msgstr "System setup information useful for debugging purposes."
+
+#: widgets/premium-title.php:58
+msgid "Premium Title"
+msgstr "Premium Title"
+
+#: widgets/premium-modalbox.php:264 widgets/premium-modalbox.php:453
+msgid "Premium Modal Box"
+msgstr "Premium Modal Box"
+
+#: admin/settings/modules-setting.php:592
+msgid "Premium Tabs"
+msgstr "Premium Tabs"
+
+#: widgets/premium-banner.php:271
+msgid "Premium Banner"
+msgstr "Premium Banner"
+
+#. Plugin Name of the plugin
+msgid "Premium Addons for Elementor"
+msgstr "Premium Addons for Elementor"
+
+#. Author URI of the plugin
+msgid "https://leap13.com/"
+msgstr "https://leap13.com/"
+
+#: widgets/premium-vscroll.php:633 widgets/premium-vscroll.php:692
+#: widgets/premium-grid.php:1825
+msgid "Text Hover Color"
+msgstr "Text Hover Colour"
+
+#: widgets/premium-modalbox.php:566
+msgid "Icon Hover Color"
+msgstr "Icon Hover Colour"
+
+#: widgets/premium-videobox.php:109
+msgid "Enter your YouTube/Vimeo video link. For example, https://www.youtube.com/embed/z1hQgVpfTKU"
+msgstr "Enter your YouTube/Vimeo video link. For example, https://www.youtube.com/embed/z1hQgVpfTKU"
+
+#: widgets/premium-title.php:412
+msgid "Stripe Color"
+msgstr "Stripe Colour"
+
+#: widgets/premium-title.php:206
+msgid "Stripe Bottom Spacing (PX)"
+msgstr "Stripe Bottom Spacing (PX)"
+
+#: widgets/premium-title.php:191
+msgid "Stripe Top Spacing (PX)"
+msgstr "Stripe Top Spacing (PX)"
+
+#: widgets/premium-title.php:172
+msgid "Stripe Height (PX)"
+msgstr "Stripe Height (PX)"
+
+#: widgets/premium-title.php:153
+msgid "Stripe Width (PX)"
+msgstr "Stripe Width (PX)"
+
+#: widgets/premium-title.php:77
+msgid "Style 7"
+msgstr "Style 7"
+
+#: widgets/premium-title.php:76
+msgid "Style 6"
+msgstr "Style 6"
+
+#: widgets/premium-title.php:75
+msgid "Style 5"
+msgstr "Style 5"
+
+#: widgets/premium-counter.php:279
+msgid "We are giving you three quick preset if you are in a hurry. Otherwise, create your own with various options"
+msgstr "We are giving you three quick preset if you are in a hurry. Otherwise, create your own with various options"
+
+#: widgets/premium-image-separator.php:73
+msgid "Image Size"
+msgstr "Image Size"
+
+#: widgets/premium-counter.php:168 widgets/premium-banner.php:67
+#: widgets/premium-grid.php:385
+msgid "Upload Image"
+msgstr "Upload Image"
+
+#: widgets/premium-pricing-table.php:66 widgets/premium-counter.php:153
+msgid "Select an Icon"
+msgstr "Select an Icon"
+
+#: widgets/premium-counter.php:142
+msgid "Use a font awesome icon or upload a custom image"
+msgstr "Use a font awesome icon or upload a custom image"
+
+#: widgets/premium-counter.php:140
+msgid "Icon Type"
+msgstr "Icon Type"
+
+#: widgets/premium-modalbox.php:241 widgets/premium-pricing-table.php:474
+#: widgets/premium-counter.php:134 widgets/premium-blog.php:92
+#: widgets/premium-grid.php:669
+msgid "Display Options"
+msgstr "Display Options"
+
+#: widgets/premium-countdown.php:448
+msgid "Background Size"
+msgstr "Background Size"
+
+#: widgets/premium-countdown.php:391
+msgid "Digits"
+msgstr "Digits"
+
+#: widgets/premium-countdown.php:379
+msgid "Seconds (Plural)"
+msgstr "Seconds (Plural)"
+
+#: widgets/premium-countdown.php:369
+msgid "Second (Singular)"
+msgstr "Second (Singular)"
+
+#: widgets/premium-countdown.php:359
+msgid "Minutes (Plural)"
+msgstr "Minutes (Plural)"
+
+#: widgets/premium-countdown.php:349
+msgid "Minute (Singular)"
+msgstr "Minute (Singular)"
+
+#: widgets/premium-countdown.php:338
+msgid "Hours (Plural)"
+msgstr "Hours (Plural)"
+
+#: widgets/premium-countdown.php:327
+msgid "Hour (Singular)"
+msgstr "Hour (Singular)"
+
+#: widgets/premium-button.php:198
+msgid "Radial Out"
+msgstr "Radial Out"
+
+#: widgets/premium-button.php:197
+msgid "Radial In"
+msgstr "Radial In"
+
+#: widgets/premium-person.php:58 widgets/premium-counter.php:277
+#: widgets/premium-title.php:67 widgets/premium-countdown.php:65
+#: widgets/premium-button.php:193
+msgid "Style"
+msgstr "Style"
+
+#: widgets/premium-pricing-table.php:896 widgets/premium-vscroll.php:251
+#: widgets/premium-banner.php:237 widgets/premium-button.php:180
+msgid "Bottom"
+msgstr "Bottom"
+
+#: widgets/premium-pricing-table.php:888 widgets/premium-vscroll.php:249
+#: widgets/premium-counter.php:186 widgets/premium-testimonials.php:193
+#: widgets/premium-banner.php:235 widgets/premium-button.php:179
+msgid "Top"
+msgstr "Top"
+
+#: widgets/premium-button.php:164
+msgid "Tilted Right"
+msgstr "Tilted Right"
+
+#: widgets/premium-button.php:163
+msgid "Tilted Left"
+msgstr "Tilted Left"
+
+#: widgets/premium-button.php:162
+msgid "Scaled Shutter Horizontal"
+msgstr "Scaled Shutter Horizontal"
+
+#: widgets/premium-button.php:161
+msgid "Scaled Shutter Vertical"
+msgstr "Scaled Shutter Vertical"
+
+#: widgets/premium-button.php:160
+msgid "Shutter out Vertical"
+msgstr "Shutter out Vertical"
+
+#: widgets/premium-button.php:159
+msgid "Shutter out Horizontal"
+msgstr "Shutter out Horizontal"
+
+#: widgets/premium-button.php:158
+msgid "Shutter in Vertical"
+msgstr "Shutter in Vertical"
+
+#: widgets/premium-button.php:157
+msgid "Shutter in Horizontal"
+msgstr "Shutter in Horizontal"
+
+#: widgets/premium-button.php:153
+msgid "Shutter Direction"
+msgstr "Shutter Direction"
+
+#: widgets/premium-image-button.php:136 widgets/premium-image-button.php:171
+#: widgets/premium-button.php:142
+msgid "Left to Right"
+msgstr "Left to Right"
+
+#: widgets/premium-maps.php:228
+msgid "Map Pins"
+msgstr "Map Pins"
+
+#: widgets/premium-maps.php:130
+msgid "Center Longitude"
+msgstr "Centre Longitude"
+
+#: widgets/premium-maps.php:119 widgets/premium-maps.php:133
+msgid "Center latitude and longitude are required to identify your location"
+msgstr "Centre latitude and longitude are required to identify your location"
+
+#: widgets/premium-maps.php:116
+msgid "Center Latitude"
+msgstr "Centre Latitude"
+
+#: widgets/premium-maps.php:66
+msgid "Center Location"
+msgstr "Centre Location"
+
+#: widgets/premium-testimonials.php:195 widgets/premium-image-separator.php:213
+msgid "blank"
+msgstr "blank"
+
+#: widgets/premium-pricing-table.php:384
+#: widgets/premium-image-separator.php:206
+msgid " Where would you like the link be opened?"
+msgstr " Where would you like the link be opened?"
+
+#: widgets/premium-pricing-table.php:382 widgets/premium-testimonials.php:186
+#: widgets/premium-image-separator.php:204
+msgid "Link Target"
+msgstr "Link Target"
+
+#: widgets/premium-image-separator.php:192
+msgid "Image Hovering Title"
+msgstr "Image Hovering Title"
+
+#: widgets/premium-image-scroll.php:128 widgets/premium-image-separator.php:143
+msgid "Link/URL"
+msgstr "Link/URL"
+
+#: widgets/premium-image-scroll.php:122 widgets/premium-image-separator.php:137
+msgid "Add a custom link or select an existing page link"
+msgstr "Add a custom link or select an existing page link"
+
+#: widgets/premium-videobox.php:80 widgets/premium-videobox.php:121
+#: widgets/premium-image-scroll.php:120 widgets/premium-pricing-table.php:348
+#: widgets/premium-testimonials.php:157 widgets/premium-testimonials.php:166
+#: widgets/premium-banner.php:80 widgets/premium-banner.php:356
+#: widgets/premium-dual-header.php:119 widgets/premium-dual-header.php:143
+#: widgets/premium-blog.php:357 widgets/premium-image-button.php:82
+#: widgets/premium-grid.php:576 widgets/premium-image-separator.php:135
+#: widgets/premium-button.php:87
+msgid "Link"
+msgstr "Link"
+
+#: widgets/premium-image-separator.php:108
+msgid "Image Alignment"
+msgstr "Image Alignment"
+
+#: widgets/premium-image-separator.php:98
+msgid "-50% is default. Increase to push the image outside or decrease to pull the image inside."
+msgstr "-50% is default. Increase to push the image outside or decrease to pull the image inside."
+
+#: widgets/premium-image-separator.php:95
+msgid "Image Gutter (%)"
+msgstr "Image Gutter (%)"
+
+#: widgets/premium-blog.php:119
+msgid "Bordered"
+msgstr "Bordered"
+
+#: widgets/premium-blog.php:118
+msgid "Diagonal"
+msgstr "Diagonal"
+
+#: widgets/premium-blog.php:117
+msgid "Framed"
+msgstr "Framed"
+
+#: widgets/premium-modalbox.php:89 widgets/premium-person.php:148
+#: widgets/premium-banner.php:187 widgets/premium-blog.php:73
+#: widgets/premium-blog.php:116 widgets/premium-blog.php:569
+#: widgets/premium-image-button.php:117 widgets/premium-progressbar.php:154
+#: widgets/premium-grid.php:745 widgets/premium-button.php:122
+msgid "None"
+msgstr "None"
+
+#: widgets/premium-blog.php:114
+msgid "Choose an overlay color effect"
+msgstr "Choose an overlay colour effect"
+
+#: widgets/premium-person.php:153 widgets/premium-banner.php:192
+#: widgets/premium-blog.php:78 widgets/premium-grid.php:750
+msgid "Blur"
+msgstr "Blur"
+
+#: widgets/premium-person.php:151 widgets/premium-banner.php:190
+#: widgets/premium-blog.php:76 widgets/premium-grid.php:748
+msgid "Scale"
+msgstr "Scale"
+
+#: widgets/premium-person.php:150 widgets/premium-banner.php:189
+#: widgets/premium-blog.php:75 widgets/premium-grid.php:747
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+#: widgets/premium-person.php:149 widgets/premium-banner.php:188
+#: widgets/premium-blog.php:74 widgets/premium-grid.php:746
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: widgets/premium-blog.php:71 widgets/premium-grid.php:743
+msgid "Choose a hover effect for the image"
+msgstr "Choose a hover effect for the image"
+
+#: widgets/premium-banner.php:496
+msgid "Hover Opacity"
+msgstr "Hover Opacity"
+
+#: widgets/premium-videobox.php:296 widgets/premium-modalbox.php:252
+#: widgets/premium-modalbox.php:434 widgets/premium-image-scroll.php:73
+#: widgets/premium-image-scroll.php:282 widgets/premium-person.php:52
+#: widgets/premium-person.php:71 widgets/premium-person.php:441
+#: widgets/premium-testimonials.php:57 widgets/premium-testimonials.php:229
+#: widgets/premium-banner.php:61 widgets/premium-banner.php:458
+#: widgets/premium-blog.php:63 widgets/premium-blog.php:774
+#: widgets/premium-grid.php:1047 widgets/premium-image-separator.php:59
+#: widgets/premium-image-separator.php:227
+msgid "Image"
+msgstr "Image"
+
+#: widgets/premium-videobox.php:472 widgets/premium-modalbox.php:515
+#: widgets/premium-modalbox.php:775 widgets/premium-modalbox.php:847
+#: widgets/premium-modalbox.php:895 widgets/premium-modalbox.php:1002
+#: widgets/premium-modalbox.php:1058 widgets/premium-pricing-table.php:549
+#: widgets/premium-pricing-table.php:721 widgets/premium-pricing-table.php:815
+#: widgets/premium-pricing-table.php:859 widgets/premium-pricing-table.php:931
+#: widgets/premium-pricing-table.php:976 widgets/premium-pricing-table.php:1028
+#: widgets/premium-pricing-table.php:1135
+#: widgets/premium-pricing-table.php:1166
+#: widgets/premium-pricing-table.php:1301
+#: widgets/premium-pricing-table.php:1388 widgets/premium-person.php:490
+#: widgets/premium-person.php:534 widgets/premium-person.php:578
+#: widgets/premium-person.php:625 widgets/premium-person.php:738
+#: widgets/premium-counter.php:216 widgets/premium-counter.php:393
+#: widgets/premium-counter.php:433 widgets/premium-testimonials.php:280
+#: widgets/premium-testimonials.php:305 widgets/premium-testimonials.php:355
+#: widgets/premium-testimonials.php:391 widgets/premium-testimonials.php:447
+#: widgets/premium-banner.php:562 widgets/premium-banner.php:631
+#: widgets/premium-banner.php:689 widgets/premium-maps.php:397
+#: widgets/premium-maps.php:480 widgets/premium-fancytext.php:347
+#: widgets/premium-fancytext.php:405 widgets/premium-fancytext.php:452
+#: widgets/premium-title.php:263 widgets/premium-blog.php:869
+#: widgets/premium-blog.php:975 widgets/premium-blog.php:1020
+#: widgets/premium-blog.php:1065 widgets/premium-blog.php:1215
+#: widgets/premium-blog.php:1252 widgets/premium-blog.php:1289
+#: widgets/premium-blog.php:1362 widgets/premium-blog.php:1403
+#: widgets/premium-blog.php:1473 widgets/premium-blog.php:1512
+#: widgets/premium-progressbar.php:350 widgets/premium-progressbar.php:396
+#: widgets/premium-progressbar.php:509 widgets/premium-progressbar.php:552
+#: widgets/premium-countdown.php:399 widgets/premium-countdown.php:495
+#: widgets/premium-countdown.php:583 widgets/premium-carousel.php:609
+#: widgets/premium-carousel.php:663 widgets/premium-carousel.php:751
+#: widgets/premium-grid.php:1148 widgets/premium-grid.php:1179
+#: widgets/premium-grid.php:1326 widgets/premium-grid.php:1410
+msgid "Color"
+msgstr "Colour"
+
+#: widgets/premium-banner.php:308
+msgid "Premium Banner gives you a wide range of styles and options that you will definitely fall in love with"
+msgstr "Premium Banner gives you a wide range of styles and options that you will definitely fall in love with"
+
+#: widgets/premium-carousel.php:359
+msgid "Adaptive Height"
+msgstr "Adaptive Height"
+
+#: widgets/premium-carousel.php:349
+msgid "Turn on RTL mode if your language starts from right to left"
+msgstr "Turn on RTL mode if your language starts from right to left"
+
+#: widgets/premium-carousel.php:348 widgets/premium-grid.php:806
+msgid "RTL Mode"
+msgstr "RTL Mode"
+
+#: widgets/premium-carousel.php:340
+msgid "Enable slide moving with touch"
+msgstr "Enable slide moving with touch"
+
+#: widgets/premium-carousel.php:339
+msgid "Touch Move"
+msgstr "Touch Move"
+
+#: widgets/premium-carousel.php:331
+msgid "Allow the slides to be dragged by mouse click"
+msgstr "Allow the slides to be dragged by mouse click"
+
+#: widgets/premium-carousel.php:330
+msgid "Draggable Effect"
+msgstr "Draggable Effect"
+
+#: widgets/premium-image-scroll.php:184 widgets/premium-blog.php:432
+msgid "Advanced Settings"
+msgstr "Advanced Settings"
+
+#: widgets/premium-carousel.php:131
+msgid "Enable or disable navigation dots"
+msgstr "Enable or disable navigation dots"
+
+#: widgets/premium-vscroll.php:365 widgets/premium-blog.php:658
+#: widgets/premium-carousel.php:715
+msgid "Navigation Dots"
+msgstr "Navigation Dots"
+
+#: widgets/premium-counter.php:283
+msgid "Square Background"
+msgstr "Square Background"
+
+#: widgets/premium-counter.php:282
+msgid "Circle Background"
+msgstr "Circle Background"
+
+#: widgets/premium-image-scroll.php:323 widgets/premium-image-scroll.php:356
+msgid "Opacity"
+msgstr "Opacity"
+
+#: widgets/premium-blog.php:781
+msgid "Plus Sign Color"
+msgstr "Plus Sign Colour"
+
+#: widgets/premium-videobox.php:567
+msgid "Hover animation works only when you set a background color or image for play icon"
+msgstr "Hover animation works only when you set a background colour or image for play icon"
+
+#: widgets/premium-title.php:394
+msgid "Triangle Color"
+msgstr "Triangle Colour"
+
+#: widgets/premium-testimonials.php:330
+msgid "Divider Color"
+msgstr "Divider Colour"
+
+#: widgets/premium-contactform.php:328
+msgid "Focus Line Color"
+msgstr "Focus Line Colour"
+
+#: widgets/premium-videobox.php:600 widgets/premium-pricing-table.php:1600
+#: widgets/premium-vscroll.php:619 widgets/premium-vscroll.php:678
+#: widgets/premium-dual-header.php:246 widgets/premium-dual-header.php:443
+#: widgets/premium-blog.php:1110 widgets/premium-image-button.php:413
+#: widgets/premium-image-button.php:532 widgets/premium-grid.php:1518
+#: widgets/premium-grid.php:1569 widgets/premium-grid.php:1616
+#: widgets/premium-grid.php:1722 widgets/premium-contactform.php:480
+#: widgets/premium-contactform.php:538 widgets/premium-button.php:509
+#: widgets/premium-button.php:631
+msgid "Text Color"
+msgstr "Text Colour"
+
+#: widgets/premium-person.php:152 widgets/premium-banner.php:191
+#: widgets/premium-blog.php:77 widgets/premium-grid.php:749
+msgid "Grayscale"
+msgstr "Greyscale"
